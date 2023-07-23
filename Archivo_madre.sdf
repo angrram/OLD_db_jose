@@ -1,0 +1,2737 @@
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 21 25 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 0.866 0 0 0
+M  V30 2 C 0 -0.5 0 0
+M  V30 3 C 0 -1.4999 0 0
+M  V30 4 C 0.866 -2 0 0
+M  V30 5 C 0.866 -3 0 0
+M  V30 6 C 0 -3.4999 0 0
+M  V30 7 C -0.866 -2.9999 0 0
+M  V30 8 C -0.866 -1.9999 0 0
+M  V30 9 C -1.732 -1.4999 0 0
+M  V30 10 C -2.598 -1.9999 0 0
+M  V30 11 C -3.4641 -1.4999 0 0
+M  V30 12 C -3.4641 -0.4999 0 0
+M  V30 13 C -2.598 0 0 0
+M  V30 14 C -2.598 1 0 0
+M  V30 15 C -1.732 1.5 0 0
+M  V30 16 N -0.866 1 0 0
+M  V30 17 C -0.866 0 0 0
+M  V30 18 C -1.732 -0.4999 0 0
+M  V30 19 O -4.2072 -2.1691 0 0
+M  V30 20 C -3.8005 -3.0826 0 0
+M  V30 21 O -2.8059 -2.9781 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 3 8
+M  V30 9 1 8 9
+M  V30 10 2 9 10
+M  V30 11 1 10 11
+M  V30 12 2 11 12
+M  V30 13 1 12 13
+M  V30 14 1 13 14
+M  V30 15 2 14 15
+M  V30 16 1 15 16
+M  V30 17 2 16 17
+M  V30 18 1 2 17
+M  V30 19 1 17 18
+M  V30 20 1 9 18
+M  V30 21 2 13 18
+M  V30 22 1 11 19
+M  V30 23 1 19 20
+M  V30 24 1 20 21
+M  V30 25 1 10 21
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0132761
+
+> <SMILES> 
+O=C1c2ccccc2-c2c3c(cc4ccnc1c24)OCO3
+
+> <DOI> 
+10.1007/S10600-013-0683-0
+
+> <DOI> 
+10.1021/NP50060A027
+
+> <DOI> 
+10.1016/S0305-1978(99)00083-6
+
+> <DOI> 
+10.1021/NP990085L
+
+> <DOI> 
+10.1055/S-2002-33804
+
+> <DOI> 
+10.1080/14786419.2011.569505
+
+> <DOI> 
+10.1002/JCCS.200000124
+
+> <DOI> 
+10.1071/CH9712187
+
+> <DOI> 
+10.1021/NP800788N
+
+> <DOI> 
+10.1021/NP50052A044
+
+> <DOI> 
+10.1002/JPS.2600640512
+
+> <DOI> 
+10.1002/CHIN.200445214
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2006.07.011
+
+> <DOI> 
+10.1021/NP010236W
+
+> <DOI> 
+10.1016/S0367-326X(02)00089-8
+
+> <DOI> 
+10.3987/COM-89-4768
+
+> <DOI> 
+10.3390/MOLECULES15117840
+
+> <DOI> 
+10.1055/S-0028-1097295
+
+> <DOI> 
+10.1016/0031-9422(86)80080-2
+
+> <DOI> 
+10.1016/S0031-9422(00)83564-5
+
+> <DOI> 
+10.1016/J.FITOTE.2011.01.021
+
+> <DOI> 
+10.1007/BF01170231
+
+> <DOI> 
+10.1021/NP50096A025
+
+> <DOI> 
+10.1021/NP50052A036
+
+> <DOI> 
+10.1248/CPB.59.896
+
+> <DOI> 
+10.1055/S-2006-951691
+
+> <DOI> 
+10.1055/S-2007-986794
+
+> <DOI> 
+10.1016/0031-9422(73)85146-5
+
+> <DOI> 
+10.1021/NP50067A010
+
+> <DOI> 
+10.1016/S0367-326X(02)00248-4
+
+> <DOI> 
+10.1021/NP100247R
+
+> <DOI> 
+10.1248/CPB.54.1040
+
+> <DOI> 
+10.1021/NP9702042
+
+> <DOI> 
+10.1016/0031-9422(84)83108-8
+
+> <DOI> 
+10.1248/YAKUSHI1947.85.1_77
+
+> <DOI> 
+10.4268/CJCMM20111611
+
+> <DOI> 
+10.1021/NP50037A038
+
+> <DOI> 
+10.1080/14786410310001617659
+
+> <DOI> 
+10.1007/978-3-642-22144-6_19
+
+> <DOI> 
+10.1055/S-2006-960784
+
+> <DOI> 
+10.1016/S0031-9422(00)86716-3
+
+> <DOI> 
+10.1016/S0031-9422(00)91254-8
+
+> <DOI> 
+10.1007/S10600-011-9970-9
+
+> <DOI> 
+10.1007/S10600-010-9606-5
+
+> <DOI> 
+10.1016/S0367-326X(02)00298-8
+
+> <DOI> 
+10.1016/0031-9422(94)00675-J
+
+> <DOI> 
+10.1021/NP50041A025
+
+> <DOI> 
+10.1248/YAKUSHI1947.86.2_129
+
+> <DOI> 
+10.1007/S10600-007-0042-0
+
+> <DOI> 
+10.1080/10575639608044938
+
+> <DOI> 
+10.1021/NP9700735
+
+> <DOI> 
+10.1248/CPB.36.2259
+
+> <DOI> 
+10.1016/S0031-9422(00)81237-6
+
+> <DOI> 
+10.1016/S0031-9422(00)83953-9
+
+> <DOI> 
+10.1007/S10600-011-9919-Z
+
+> <DOI> 
+10.1248/YAKUSHI1947.86.2_124
+
+> <DOI> 
+10.1055/S-0028-1097904
+
+> <DOI> 
+10.1016/S0031-9422(00)00486-6
+
+> <DOI> 
+10.1071/CH9560111
+
+> <DOI> 
+10.1021/NP000373D
+
+> <DOI> 
+10.1016/0031-9422(88)83076-0
+
+> <DOI> 
+10.1248/YAKUSHI1947.94.6_729
+
+> <DOI> 
+10.1071/CH9651997
+
+> <DOI> 
+10.1021/NP50019A011
+
+> <DOI> 
+10.1007/S10600-012-0141-4
+
+> <DOI> 
+10.1055/S-2006-960213
+
+> <DOI> 
+10.1021/NP50048A018
+
+> <DOI> 
+10.1021/NP50033A032
+
+> <DOI> 
+10.1021/NP0200717
+
+> <DOI> 
+10.3987/R-1984-09-2071
+
+> <DOI> 
+10.1016/J.FITOTE.2011.11.009
+
+> <DOI> 
+10.1021/NP50063A002
+
+> <DOI> 
+10.1002/JCCS.199700047
+
+> <DOI> 
+10.1016/S0031-9422(00)90547-8
+
+> <DOI> 
+10.1016/0031-9422(76)85135-7
+
+> <DOI> 
+10.1071/CH9911615
+
+> <DOI> 
+10.1021/NP050422S
+
+> <DOI> 
+10.1021/NP50070A013
+
+> <DOI> 
+10.1016/S0031-9422(00)82561-3
+
+> <DOI> 
+10.1021/NP50044A029
+
+> <DOI> 
+10.1002/RCM.3045
+
+> <DOI> 
+10.1002/PTR.1158
+
+> <DOI> 
+10.1080/14786410902906959
+
+> <DOI> 
+10.1016/S0031-9422(00)95214-2
+
+> <DOI> 
+10.1021/NP50051A036
+
+> <DOI> 
+10.1002/HLCA.200790080
+
+> <DOI> 
+10.1016/J.BMCL.2013.04.013
+
+> <DOI> 
+10.21608/BFSA.1985.75887
+
+> <DOI> 
+10.1248/CPB.43.2014
+
+> <DOI> 
+10.1016/S0031-9422(98)80009-5
+
+> <DOI> 
+10.1021/NP50022A021
+
+> <DOI> 
+10.1021/NP50022A020
+
+> <DOI> 
+10.11110/KJPT.1985.15.3.145
+
+> <DOI> 
+10.1071/CH9722659
+
+> <DOI> 
+10.1016/S0031-9422(00)81171-1
+
+> <DOI> 
+10.1007/BF00569619
+
+> <DOI> 
+10.1016/J.BSE.2007.01.011
+
+> <DOI> 
+10.1055/S-2006-961021
+
+> <DOI> 
+10.1248/YAKUSHI1947.104.10_1030
+
+> <DOI> 
+10.3109/13880209.2013.826244
+
+> <DOI> 
+10.1002/JPS.2600580533
+
+> <DOI> 
+10.1021/NP50033A010
+
+> <DOI> 
+10.1021/NP50040A028
+
+> <DOI> 
+10.1080/14786410802497356
+
+> <DOI> 
+10.1021/NP50004A007
+
+> <DOI> 
+10.1016/S0031-9422(00)81765-3
+
+> <DOI> 
+10.1021/NP50050A059
+
+> <DOI> 
+10.2307/4117899
+
+> <DOI> 
+10.1055/S-2006-962040
+
+> <DOI> 
+10.1002/PTR.1333
+
+> <DOI> 
+10.1055/S-2000-8654
+
+> <DOI> 
+10.1016/0305-1978(95)00096-8
+
+> <DOI> 
+10.1002/JCCS.199900084
+
+> <DOI> 
+10.1021/NP900572G
+
+> <DOI> 
+10.1055/S-0028-1097597
+
+> <DOI> 
+10.1016/S0031-9422(00)00402-7
+
+> <DOI> 
+10.1016/S0031-9422(00)00222-3
+
+> <DOI> 
+10.1021/NP50072A043
+
+> <DOI> 
+10.1021/NP50084A001
+
+> <DOI> 
+10.1055/S-2004-818972
+
+> <DOI> 
+10.1055/S-2007-969768
+
+> <DOI> 
+10.1021/NP50007A010
+
+> <DOI> 
+10.1002/HLCA.200490127
+
+> <DOI> 
+10.1016/0031-9422(91)85144-O
+
+> <DOI> 
+10.1021/NP50032A036
+
+> <DOI> 
+10.1007/BF00567902
+
+> <DOI> 
+10.1590/S0103-50532011000600016
+
+> <DOI> 
+10.1016/0305-1978(95)00002-C
+
+> <DOI> 
+10.1016/S0031-9422(00)97942-1
+
+> <DOI> 
+10.1021/NP50062A009
+
+> <DOI> 
+10.1007/S10600-010-9463-2
+
+> <DOI> 
+10.1016/0031-9422(95)00333-3
+
+> <DOI> 
+10.1002/JLAC.198219820905
+
+> <DOI> 
+10.1007/BF00568496
+
+> <DOI> 
+10.1016/0031-9422(96)00181-1
+
+> <DOI> 
+10.1021/NP50111A003
+
+> <DOI> 
+10.1080/14786419.2010.533373
+
+> <DOI> 
+10.1002/JCCS.200000172
+
+> <DOI> 
+10.1002/JCCS.197300010
+
+> <DOI> 
+10.1016/0031-9422(75)85326-X
+
+> <DOI> 
+10.1021/NP010036K
+
+> <DOI> 
+10.1002/(SICI)1099-1573(199903)13:2<175::AID-PTR395>3.0.CO;2-N
+
+> <DOI> 
+10.1007/978-1-4899-1783-6_3
+
+> <DOI> 
+10.1007/S11418-007-0138-7
+
+> <DOI> 
+10.1055/S-2006-962386
+
+> <DOI> 
+10.1021/NP50068A039
+
+> <DOI> 
+10.1248/YAKUSHI1947.82.6_925
+
+> <DOI> 
+10.1055/S-0028-1097180
+
+> <DOI> 
+10.1002/PTR.1318
+
+> <DOI> 
+10.1016/S0031-9422(00)83902-3
+
+> <DOI> 
+10.1016/0031-9422(93)85547-5
+
+> <DOI> 
+10.1002/CBDV.200800107
+
+> <DOI> 
+10.1055/S-2007-967108
+
+> <DOI> 
+10.1055/S-2006-962020
+
+> <DOI> 
+10.1055/S-2000-8597
+
+> <DOI> 
+10.1016/0031-9422(90)85344-F
+
+> <DOI> 
+10.1007/BF00566825
+
+> <DOI> 
+10.1021/NP960414Z
+
+> <DOI> 
+10.1016/0031-9422(88)80247-4
+
+> <DOI> 
+10.1016/S0031-9422(00)80760-8
+
+> <DOI> 
+10.1002/HLCA.200890109
+
+> <DOI> 
+10.1076/PHBI.41.4.277.15671
+
+> <DOI> 
+10.1021/NP50103A009
+
+> <DOI> 
+10.1071/CH9762003
+
+> <DOI> 
+10.1248/YAKUSHI1947.87.9_1134
+
+> <DOI> 
+10.1515/ZNC-2011-7-809
+
+> <DOI> 
+10.1002/PCA.584
+
+> <DOI> 
+10.1590/S0100-46702007000300002
+
+> <DOI> 
+10.1016/0031-9422(90)85037-G
+
+> <DOI> 
+10.1080/14786411003774338
+
+> <DOI> 
+10.1016/J.CCLET.2008.01.007
+
+> <DOI> 
+10.1021/NP3007414
+
+> <DOI> 
+10.1021/NP000342I
+
+> <DOI> 
+10.1021/NP50057A017
+
+> <DOI> 
+10.1021/NP960223W
+
+> <DOI> 
+10.1016/S0031-9422(00)88656-2
+
+> <DOI> 
+10.1002/JCCS.200100177
+
+> <DOI> 
+10.1007/978-90-481-8661-7_29
+
+> <DOI> 
+10.1007/BF00568268
+
+> <DOI> 
+10.1021/NP50031A035
+
+> <DOI> 
+10.1055/S-2007-969493
+
+> <DOI> 
+10.1016/S0031-9422(00)81449-1
+
+> <DOI> 
+10.1021/NP990548N
+
+> <DOI> 
+10.1128/AAC.34.4.529
+
+> <DOI> 
+10.3109/13880208909053943
+
+> <DOI> 
+10.1016/S0031-9422(00)00012-1
+
+> <DOI> 
+10.1007/S10600-010-9708-0
+
+> <DOI> 
+10.1021/NP50053A020
+
+> <DOI> 
+10.1016/J.BSE.2011.03.001
+
+> <DOI> 
+10.1248/CPB.35.2717
+
+> <DOI> 
+10.1016/0040-4020(75)80132-3
+
+> <DOI> 
+10.1016/S0031-9422(00)81172-3
+
+> <DOI> 
+10.1086/329604
+
+> <DOI> 
+10.1016/J.FITOTE.2005.08.011
+
+> <DOI> 
+10.1016/0031-9422(92)83308-L
+
+> <DOI> 
+10.1055/S-1999-13961
+
+> <DOI> 
+10.1016/S0040-4039(97)00051-8
+
+> <DOI> 
+10.1007/BF02234867
+
+> <DOI> 
+10.1159/000139307
+
+> <DOI> 
+10.1590/S0103-50532003000300009
+
+> <DOI> 
+10.1002/JCCS.200400131
+
+> <DOI> 
+10.1021/NP50071A028
+
+> <DOI> 
+10.1007/S10600-008-0043-7
+
+> <DOI> 
+10.1021/NP0204343
+
+> <DOI> 
+10.1016/S0040-4020(01)87082-4
+
+> <DOI> 
+10.1021/NP50027A029
+
+> <DOI> 
+10.1021/NP50027A028
+
+> <DOI> 
+10.1021/NP50027A027
+
+> <Unordered_taxonomy> 
+Thalictrum,Goniothalamus cheliensis,Broussonetia papyrifera,Magnolia champaca,Guatteria sagotiana,Meiogyne virgata,Annona spinescens,Artabotrys,Fissistigma,Annona purpurea,Miliusa velutina,Annona diversifolia,Cleistopholis,Cissampelos,Chydenanthus excelsus,Annickia polycarpa,Magnolia alba,Siparuna apiosyce,Magnolia,Annona,Monimiaceae,Trivalvaria costata,Colubrina faralaotra,Archaeplastida,Rhigiocarya,Miliusa,Neolitsea acuminatissima,Magnolia rajaniana,Mollusca,Polyalthia,Sapranthus,Artabotrys zeylanicus,Zanthoxylum simulans,Animalia,Hexalobus crispiflorus,Trivalvaria macrophylla,Annona reticulata,Magnolia elegans,Piptostigma fugax,Nelumbo nucifera,Miliusa cuneata,Goniothalamus,Magnolia kobus,Mollinedia gilgiana,Beilschmiedia,Guatteria modesta,Mitrephora glabra,Isolona maitlandii,Eupomatia laurina,Ranunculaceae,Plantae,Isolona,Unonopsis guatterioides,Polyalthia microtus,Annona hayesii,Moraceae,Annona cherimola,Annona glabra,Polyalthia insignis,Goniothalamus scortechinii,Gentianaceae,Lettowianthus stellatus,Glossocalyx,Hornschuchia obliqua,Zanthoxylum caudatum,Mollinedia glaziovii,Malvaceae,Mitrephora tomentosa,Oxandra,Disepalum anomalum,Porcelia macrocarpa,Stephania dinklagei,Mitrephora vulpina,Cleistopholis patens,Cardiopetalum calophyllum,Magnoliopsida,Guatteria blepharophylla,Desfontainia,Gastropoda,Alphonsea,Annickia,Guatteria goudotiana,Friesodielsia,Artabotrys hexapetalus,Mollinedia,Magnolia wieseneri,Sinomenium,Streptophyta,Annona neosericea,Dasymaschalon,Monodora junodii,Magnolia obovata,Atherosperma,Magnolia grandiflora,Annona cacans,Sapranthus palanga,Lettowianthus,Dasymaschalon longiflorum,Limaciopsis loangensis,Magnolia mexicana,Disepalum,Pseuduvaria indochinensis,Pseuduvaria,Magnolia × wiesneri,Uvaria rufa,Zanthoxylum tetraspermum,Phoebe,Eulimella,Rutaceae,Stephania venosa,Anisocycla cymosa,Zanthoxylum nitidum,Elmerrillia papuana,Annona bullata,Magnolia tsiampacca,Porcelia,Monodora tenuifolia,Enicosanthum,Magnolia odora,Siparuna grandiflora,Polyalthia stenopetala,Fissistigma punctulatum,Viridiplantae,Glossocalyx brevipes,Doryphora,Hexalobus monopetalus,Broussonetia,Mollinedia salicifolia,Pyramidellidae,Annona ambotay,Eupomatia bennettii,Magnolia tsiampacca subsp. tsiampacca,Uvaria versicolor,Fissistigma glaucescens,Microcos,Mollinedia marliae,Uvaria,Cissampelos sympodialis,Isolona congolana,Pseuduvaria trimera,Beilschmiedia alloiophylla,Microcos paniculata,Mitrephora teysmannii,Greenwayodendron oliveri,Miliusa sinensis,Miliusa horsfieldii,Annona emarginata,Neolitsea sericea,Greenwayodendron,Liriodendron tulipifera,Artabotrys maingayi,Polyalthia longifolia,Siparunaceae,Meiogyne,Annona senegalensis,Stephania,Uvaria mocoli,Illigera,Thalictrum javanicum,Hernandiaceae,Neolitsea,Enicosanthum cupulare,Anisocycla,Magnolia champaca ex,Hubera,Uvaria argentea,Magnolia salicifolia,Equisetopsida,Magnolia cathcartii,Stephania sasakii,Pachygone,Mitrephora,Hornschuchia,Unonopsis spectabilis,Annona acuminata,Ocotea,Trivalvaria,Oxandra major,Magnolia baillonii,Licaria,Licaria triandra,Pseuduvaria rugosa,Magnoliaceae,Goniothalamus tapis,Mitrephora maingayi,Unonopsis,Annonaceae,Rhamnaceae,Xylopia,Columelliaceae,Goniothalamus amuyon,Alphonsea lutea,Oxandra asbeckii,Annona papilionella,Guatteria amplifolia,Annona dioica,Desfontainia spinosa,Sinomenium acutum,Guatteria multivenia,Eupomatiaceae,Doryphora sassafras,Annickia polycarpa ex,Nelumbo,Cananga,Annona cristalensis,Xylopia aethiopica,Colubrina,Magnolia lanuginosa,Guatteria,Guatteria megalophylla,Mitrephora thorelii,Siparuna,Asimina,Pachygone ovata,Eukaryota,Magnolia liliifera,Tracheophyta,Siparuna guianensis,Chydenanthus,Friesodielsia velutina,Magnolia wiesneri,Eupomatia,Limaciopsis,Cananga odorata,Guatteria oliviformis,Metazoa,Magnolia soulangeana,Rhigiocarya racemifera,Hubera cerasoides,Annona mucosa,Hexalobus,Guatteria friesiana,Annona montana,Zanthoxylum,Magnolia × soulangeana,Guatteria guianensis,Phoebe formosana,Laurelia,Liriodendron,Disepalum pulchrum,Desfontainia fulgens,Menispermaceae,Asimina triloba,Annona cherimolia,Meiogyne monosperma,Atherospermataceae,Chelonanthus,Illigera luzonensis,Stephania sutchuenensis,Litsea,Lauraceae,Siparuna thecaphora,Pachygone ovata ex,Magnolia compressa,Nelumbonaceae,Annona macroprophyllata,Annona foetida,Oxandra xylopioides,Annona squamosa,Piptostigma,Lecythidaceae,Monodora,Magnolia coco,Cardiopetalum,Litsea sericea,Atherosperma moschatum,Mollinedia schottiana,Chelonanthus albus,Magnolia officinalis,Laurelia novae-zelandiae,Magnolia doltsopa
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 44 46 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 7.7801 -11.6391 0 0
+M  V30 2 C 7.988 -10.6609 0 0
+M  V30 3 C 8.9391 -10.3519 0 0
+M  V30 4 C 9.147 -9.3738 0 0
+M  V30 5 C 10.098 -9.0647 0 0
+M  V30 6 C 10.3059 -8.0866 0 0
+M  V30 7 C 11.257 -7.7776 0 0 CFG=2
+M  V30 8 O 12.0001 -8.4467 0 0
+M  V30 9 C 11.4649 -6.7994 0 0
+M  V30 10 C 12.416 -6.4904 0 0
+M  V30 11 C 12.6239 -5.5123 0 0
+M  V30 12 C 13.5749 -5.2032 0 0 CFG=2
+M  V30 13 O 14.3181 -5.8724 0 0
+M  V30 14 C 13.7828 -4.2251 0 0 CFG=1
+M  V30 15 C 14.6964 -3.8184 0 0
+M  V30 16 C 14.5919 -2.8238 0 0
+M  V30 17 C 13.6137 -2.6159 0 0 CFG=2
+M  V30 18 C 13.207 -1.7024 0 0 CFG=1
+M  V30 19 C 13.707 -0.8364 0 0
+M  V30 20 C 13.0379 -0.0932 0 0
+M  V30 21 C 12.1243 -0.5 0 0 CFG=2
+M  V30 22 C 11.2583 0 0 0 CFG=2
+M  V30 23 O 11.2583 1 0 0
+M  V30 24 C 10.3923 -0.5 0 0
+M  V30 25 C 9.5262 0 0 0
+M  V30 26 C 8.6602 -0.5 0 0
+M  V30 27 C 7.7942 0 0 0
+M  V30 28 C 6.9282 -0.5 0 0
+M  V30 29 C 6.0621 0 0 0
+M  V30 30 C 5.1961 -0.5 0 0
+M  V30 31 C 4.3301 0 0 0
+M  V30 32 C 3.4641 -0.5 0 0
+M  V30 33 C 2.598 0 0 0
+M  V30 34 C 1.732 -0.5 0 0
+M  V30 35 C 0.866 0 0 0
+M  V30 36 C 0 -0.5 0 0
+M  V30 37 C -0.9135 -0.0932 0 0
+M  V30 38 C -1.5826 -0.8364 0 0 CFG=2
+M  V30 39 C -2.5771 -0.7318 0 0
+M  V30 40 O -1.0826 -1.7024 0 0
+M  V30 41 C -0.1045 -1.4945 0 0
+M  V30 42 O 0.6386 -2.1636 0 0
+M  V30 43 O 12.2288 -1.4945 0 0
+M  V30 44 O 13.1137 -3.482 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 7 6
+M  V30 7 1 7 8 CFG=1
+M  V30 8 1 7 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 1 12 11
+M  V30 12 1 12 13 CFG=1
+M  V30 13 1 14 12
+M  V30 14 1 14 15
+M  V30 15 1 15 16
+M  V30 16 1 17 16
+M  V30 17 1 18 17
+M  V30 18 1 18 19
+M  V30 19 1 19 20
+M  V30 20 1 21 20
+M  V30 21 1 22 21
+M  V30 22 1 22 23 CFG=1
+M  V30 23 1 22 24
+M  V30 24 1 24 25
+M  V30 25 1 25 26
+M  V30 26 1 26 27
+M  V30 27 1 27 28
+M  V30 28 1 28 29
+M  V30 29 1 29 30
+M  V30 30 1 30 31
+M  V30 31 1 31 32
+M  V30 32 1 32 33
+M  V30 33 1 33 34
+M  V30 34 1 34 35
+M  V30 35 1 35 36
+M  V30 36 2 36 37
+M  V30 37 1 38 37
+M  V30 38 1 38 39 CFG=1
+M  V30 39 1 38 40
+M  V30 40 1 40 41
+M  V30 41 1 36 41
+M  V30 42 2 41 42
+M  V30 43 1 21 43 CFG=1
+M  V30 44 1 18 43 CFG=3
+M  V30 45 1 17 44 CFG=1
+M  V30 46 1 14 44 CFG=3
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(8 7 12 14 17 18 21 22 38)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0092106
+
+> <SMILES> 
+CCCCCC[C@H](O)CCC[C@H](O)[C@H]1CC[C@H]([C@H]2CC[C@H]([C@H](O)CCCCCCCCCCCCC3=C[C@H](C)OC3=O)O2)O1
+
+> <DOI> 
+10.1248/CPB.36.4802
+
+> <DOI> 
+10.1016/0968-0896(95)00155-7
+
+> <DOI> 
+10.1016/S0031-9422(99)00142-9
+
+> <DOI> 
+10.1080/10575639508044075
+
+> <DOI> 
+10.1021/NP030521A
+
+> <DOI> 
+10.1271/BBB1961.53.2719
+
+> <DOI> 
+10.1016/S0031-9422(98)80072-1
+
+> <DOI> 
+10.1248/CPB.42.1163
+
+> <DOI> 
+10.1248/CPB.42.388
+
+> <DOI> 
+10.1021/NP990118X
+
+> <DOI> 
+10.1016/S0031-9422(02)00536-8
+
+> <DOI> 
+10.1080/10575639908041214
+
+> <DOI> 
+10.1021/NP980482G
+
+> <DOI> 
+10.1002/PS.2780330405
+
+> <DOI> 
+10.1021/NP9703252
+
+> <DOI> 
+10.1016/0031-9422(91)83724-Y
+
+> <DOI> 
+10.1002/PTR.2650050308
+
+> <DOI> 
+10.1016/J.BMC.2005.03.029
+
+> <DOI> 
+10.1021/NP50109A006
+
+> <DOI> 
+10.1080/10826079708010949
+
+> <DOI> 
+10.1584/JPESTICS.16.93
+
+> <DOI> 
+10.3987/COM-94-6765
+
+> <DOI> 
+10.1055/S-2006-959771
+
+> <DOI> 
+10.1016/J.TET.2006.04.066
+
+> <DOI> 
+10.1007/BF02941807
+
+> <DOI> 
+10.1021/NP970410+
+
+> <DOI> 
+10.1016/0378-8741(93)90066-E
+
+> <DOI> 
+10.1002/(SICI)1099-1573(199812)12:8<541::AID-PTR358>3.0.CO;2-5
+
+> <DOI> 
+10.1055/S-2004-827237
+
+> <DOI> 
+10.1002/CHIN.200324191
+
+> <DOI> 
+10.1016/S0305-1978(97)00134-8
+
+> <DOI> 
+10.1055/S-2006-958148
+
+> <DOI> 
+10.1055/S-2006-941542
+
+> <DOI> 
+10.1055/S-1999-13961
+
+> <DOI> 
+10.1016/S0031-9422(99)00002-3
+
+> <DOI> 
+10.1016/S0040-4020(01)91014-2
+
+> <DOI> 
+10.1016/0031-9422(96)00050-7
+
+> <DOI> 
+10.1016/0031-9422(93)85162-K
+
+> <Unordered_taxonomy> 
+Uvaria narum,Annona reticulata,Uvaria chamae,Magnoliopsida,Asimina,Asimina triloba,Annona cherimolia,Annona bullata,Annona spinescens,Eukaryota,Goniothalamus,Annona purpurea,Annonaceae,Tracheophyta,Streptophyta,Viridiplantae,Annona neosericea,Uvaria hookeri,Plantae,Equisetopsida,Annona squamosa,Annona glauca,Annona cherimola,Annona,Annona glabra,Annona salzmannii,Uvaria,Goniothalamus cardiopetalus,Annona atemoya,Annona mucosa,Archaeplastida,Uvaria dulcis,Annona × atemoya,Annona emarginata
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 20 24 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C -0.866 -4.4999 0 0
+M  V30 2 C 0 -3.9999 0 0
+M  V30 3 C 0 -2.9999 0 0
+M  V30 4 C -0.866 -2.4999 0 0
+M  V30 5 C -1.732 -2.9999 0 0
+M  V30 6 C -1.732 -3.9999 0 0
+M  V30 7 C -2.598 -2.4999 0 0
+M  V30 8 C -2.598 -1.4999 0 0 CFG=1
+M  V30 9 N -3.4641 -0.9999 0 0
+M  V30 10 C -3.4641 0 0 0
+M  V30 11 C -2.598 0.5 0 0
+M  V30 12 C -1.732 0 0 0
+M  V30 13 C -0.866 0.5 0 0
+M  V30 14 C 0 0 0 0
+M  V30 15 C 0 -1 0 0
+M  V30 16 C -0.866 -1.5 0 0
+M  V30 17 C -1.732 -1 0 0
+M  V30 18 O 0.951 -1.309 0 0
+M  V30 19 C 1.5388 -0.5 0 0
+M  V30 20 O 0.951 0.309 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 1 6
+M  V30 7 1 5 7
+M  V30 8 1 8 7
+M  V30 9 1 8 9 CFG=1
+M  V30 10 1 9 10
+M  V30 11 1 10 11
+M  V30 12 1 11 12
+M  V30 13 2 12 13
+M  V30 14 1 13 14
+M  V30 15 2 14 15
+M  V30 16 1 15 16
+M  V30 17 1 4 16
+M  V30 18 2 16 17
+M  V30 19 1 12 17
+M  V30 20 1 8 17
+M  V30 21 1 15 18
+M  V30 22 1 18 19
+M  V30 23 1 19 20
+M  V30 24 1 14 20
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(1 8)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0160152
+
+> <SMILES> 
+c1ccc2c(c1)C[C@H]1NCCc3cc4c(c-2c31)OCO4
+
+> <DOI> 
+10.1016/S0305-1978(99)00072-1
+
+> <DOI> 
+10.1021/NP50046A007
+
+> <DOI> 
+10.1016/S0031-9422(00)81449-1
+
+> <DOI> 
+10.1021/NP50062A009
+
+> <DOI> 
+10.1002/JCCS.199700047
+
+> <DOI> 
+10.1021/NP50023A017
+
+> <DOI> 
+10.1002/JCCS.197500046
+
+> <DOI> 
+10.1021/NP50037A038
+
+> <DOI> 
+10.1021/NP50027A029
+
+> <DOI> 
+10.1002/JCCS.200000124
+
+> <DOI> 
+10.1021/NP50027A028
+
+> <DOI> 
+10.1076/1388-0209(200009)3841-AFT318
+
+> <DOI> 
+10.1080/10575639508044088
+
+> <DOI> 
+10.1080/14786410902906959
+
+> <DOI> 
+10.1016/J.FITOTE.2011.01.021
+
+> <DOI> 
+10.1111/J.2042-7158.1995.TB05852.X
+
+> <DOI> 
+10.1021/NP50099A005
+
+> <DOI> 
+10.3987/COM-89-4768
+
+> <DOI> 
+10.1016/0031-9422(90)85344-F
+
+> <DOI> 
+10.1016/S0031-9422(00)86716-3
+
+> <DOI> 
+10.1248/CPB.45.545
+
+> <DOI> 
+10.1002/JLAC.198219820905
+
+> <DOI> 
+10.1021/NP50052A044
+
+> <DOI> 
+10.1055/S-2007-969768
+
+> <DOI> 
+10.1016/S0031-9422(00)82561-3
+
+> <DOI> 
+10.1016/0960-894X(95)00250-W
+
+> <DOI> 
+10.1055/S-2006-960784
+
+> <DOI> 
+10.4268/CJCMM20111611
+
+> <DOI> 
+10.1007/S10600-011-9919-Z
+
+> <DOI> 
+10.1021/NP960414Z
+
+> <DOI> 
+10.1007/S10600-010-9463-2
+
+> <DOI> 
+10.1055/S-2007-986794
+
+> <DOI> 
+10.1021/NP990085L
+
+> <DOI> 
+10.1007/S10600-012-0141-4
+
+> <DOI> 
+10.1021/NP50054A017
+
+> <DOI> 
+10.1016/0031-9422(95)00333-3
+
+> <DOI> 
+10.1021/NP960223W
+
+> <DOI> 
+10.1021/NP50052A036
+
+> <DOI> 
+10.1021/NP50068A039
+
+> <DOI> 
+10.1016/S0944-7113(97)80059-1
+
+> <DOI> 
+10.1007/S10600-010-9708-0
+
+> <DOI> 
+10.1080/14786410802497356
+
+> <DOI> 
+10.1021/NP50050A059
+
+> <DOI> 
+10.11110/KJPT.1985.15.3.145
+
+> <DOI> 
+10.1039/J39670002134
+
+> <DOI> 
+10.1017/S174275840001345X
+
+> <DOI> 
+10.1021/NP50046A037
+
+> <DOI> 
+10.1002/PCA.2800040204
+
+> <DOI> 
+10.1021/NP000176E
+
+> <DOI> 
+10.1055/S-2006-961021
+
+> <DOI> 
+10.1055/S-2006-962020
+
+> <DOI> 
+10.1021/NP50072A043
+
+> <DOI> 
+10.1055/S-2006-960213
+
+> <DOI> 
+10.1007/BF02234867
+
+> <DOI> 
+10.1021/NP50021A009
+
+> <DOI> 
+10.1021/NP50051A036
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2006.07.011
+
+> <DOI> 
+10.1016/S0031-9422(00)81765-3
+
+> <DOI> 
+10.1007/BF00568496
+
+> <DOI> 
+10.1002/JCCS.200400131
+
+> <DOI> 
+10.1016/0031-9422(90)85037-G
+
+> <DOI> 
+10.1007/S10600-010-9606-5
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2012.06.013
+
+> <DOI> 
+10.1021/NP010236W
+
+> <DOI> 
+10.1021/NP010036K
+
+> <DOI> 
+10.1016/S0305-1978(97)00101-4
+
+> <DOI> 
+10.1007/S10600-011-9921-5
+
+> <DOI> 
+10.1007/S10600-008-0043-7
+
+> <DOI> 
+10.1021/NP960321H
+
+> <DOI> 
+10.1248/CPB.45.470
+
+> <DOI> 
+10.1016/0031-9422(72)85042-8
+
+> <DOI> 
+10.1248/CPB.60.257
+
+> <DOI> 
+10.1016/0378-8741(92)90058-Y
+
+> <DOI> 
+10.1016/S0305-1978(02)00180-1
+
+> <DOI> 
+10.1007/S10600-013-0683-0
+
+> <DOI> 
+10.1016/S0305-1978(03)00119-4
+
+> <DOI> 
+10.1016/0031-9422(82)83185-3
+
+> <DOI> 
+10.3390/MOLECULES18077739
+
+> <Unordered_taxonomy> 
+Neolitsea sericea,Liriodendron tulipifera,Greenwayodendron,Artabotrys maingayi,Laureliopsis,Hubera pendula,Polyalthia longifolia,Meiogyne virgata,Siparunaceae,Meiogyne,Annona senegalensis,Annona spinescens,Desmos,Artabotrys,Stephania,Desmos yunnanensis,Annona purpurea,Neolitsea,Magnolia alba,Stephania pierrei,Hubera,Equisetopsida,Magnolia,Xylopia emarginata,Annona,Archaeplastida,Laureliopsis philippiana,Neolitsea acuminatissima,Meiogyne tiebaghiensis,Polyalthia,Hexalobus crispiflorus,Oxandra major,Licaria,Licaria triandra,Nelumbo nucifera,Magnoliaceae,Goniothalamus,Magnolia kobus,Annonaceae,Stephania cephalantha,Xylopia,Isolona maitlandii,Goniothalamus amuyon,Alphonsea lutea,Plantae,Isolona,Annona hayesii,Annona cherimola,Annona glabra,Nelumbo,Gentianaceae,Annona muricata,Guatteria,Oxandra,Siparuna,Cardiopetalum calophyllum,Magnoliopsida,Artabotrys monteiroae,Alphonsea,Artabotrys hexapetalus,Xylopia papuana,Eukaryota,Magnolia liliifera,Tracheophyta,Streptophyta,Annona neoulei,Monodora junodii,Magnolia obovata,Artabotrys venustus,Magnolia grandiflora,Guatteria oliviformis,Magnolia soulangeana,Annona mucosa,Uvaria dulcis,Disepalum,Hexalobus,Magnolia × soulangeana,Artabotrys brachypetalus,Liriodendron,Stephania venosa,Disepalum pulchrum,Menispermaceae,Annona cherimolia,Meiogyne monosperma,Atherospermataceae,Chelonanthus,Monodora tenuifolia,Siparuna grandiflora,Lauraceae,Viridiplantae,Magnolia compressa,Nelumbonaceae,Annona squamosa,Annona salzmannii,Annona leptopetala,Uvaria,Isolona congolana,Monodora,Cardiopetalum,Chelonanthus albus,Magnolia officinalis,Greenwayodendron oliveri,Xylopia parviflora,Annona emarginata
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 44 46 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 7.7801 -11.6391 0 0
+M  V30 2 C 7.988 -10.6609 0 0
+M  V30 3 C 8.9391 -10.3519 0 0
+M  V30 4 C 9.147 -9.3738 0 0
+M  V30 5 C 10.098 -9.0647 0 0
+M  V30 6 C 10.3059 -8.0866 0 0
+M  V30 7 C 11.257 -7.7776 0 0
+M  V30 8 C 11.4649 -6.7994 0 0
+M  V30 9 C 12.416 -6.4904 0 0
+M  V30 10 C 12.6239 -5.5123 0 0
+M  V30 11 C 13.5749 -5.2032 0 0 CFG=2
+M  V30 12 O 14.3181 -5.8724 0 0
+M  V30 13 C 13.7828 -4.2251 0 0 CFG=2
+M  V30 14 C 14.6964 -3.8184 0 0
+M  V30 15 C 14.5919 -2.8238 0 0
+M  V30 16 C 13.6137 -2.6159 0 0 CFG=2
+M  V30 17 C 13.207 -1.7024 0 0 CFG=2
+M  V30 18 C 13.707 -0.8364 0 0
+M  V30 19 C 13.0379 -0.0932 0 0
+M  V30 20 C 12.1243 -0.5 0 0 CFG=2
+M  V30 21 C 11.2583 0 0 0 CFG=1
+M  V30 22 O 11.2583 1 0 0
+M  V30 23 C 10.3923 -0.5 0 0
+M  V30 24 C 9.5262 0 0 0
+M  V30 25 C 8.6602 -0.5 0 0
+M  V30 26 C 7.7942 0 0 0
+M  V30 27 C 6.9282 -0.5 0 0
+M  V30 28 C 6.0621 0 0 0
+M  V30 29 C 5.1961 -0.5 0 0
+M  V30 30 C 4.3301 0 0 0
+M  V30 31 C 3.4641 -0.5 0 0
+M  V30 32 C 2.598 0 0 0
+M  V30 33 C 1.732 -0.5 0 0 CFG=2
+M  V30 34 O 1.732 -1.5 0 0
+M  V30 35 C 0.866 0 0 0
+M  V30 36 C 0 -0.5 0 0
+M  V30 37 C -0.9135 -0.0932 0 0
+M  V30 38 C -1.5826 -0.8364 0 0 CFG=1
+M  V30 39 C -2.5771 -0.7318 0 0
+M  V30 40 O -1.0826 -1.7024 0 0
+M  V30 41 C -0.1045 -1.4945 0 0
+M  V30 42 O 0.6386 -2.1636 0 0
+M  V30 43 O 12.2288 -1.4945 0 0
+M  V30 44 O 13.1137 -3.482 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 11 10
+M  V30 11 1 11 12 CFG=1
+M  V30 12 1 13 11
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 16 15
+M  V30 16 1 17 16
+M  V30 17 1 17 18
+M  V30 18 1 18 19
+M  V30 19 1 20 19
+M  V30 20 1 21 20
+M  V30 21 1 21 22 CFG=3
+M  V30 22 1 21 23
+M  V30 23 1 23 24
+M  V30 24 1 24 25
+M  V30 25 1 25 26
+M  V30 26 1 26 27
+M  V30 27 1 27 28
+M  V30 28 1 28 29
+M  V30 29 1 29 30
+M  V30 30 1 30 31
+M  V30 31 1 31 32
+M  V30 32 1 33 32
+M  V30 33 1 33 34 CFG=3
+M  V30 34 1 33 35
+M  V30 35 1 35 36
+M  V30 36 2 36 37
+M  V30 37 1 38 37
+M  V30 38 1 38 39 CFG=3
+M  V30 39 1 38 40
+M  V30 40 1 40 41
+M  V30 41 1 36 41
+M  V30 42 2 41 42
+M  V30 43 1 20 43 CFG=1
+M  V30 44 1 17 43 CFG=1
+M  V30 45 1 16 44 CFG=1
+M  V30 46 1 13 44 CFG=1
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(8 11 13 16 17 20 21 33 38)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0139851
+
+> <SMILES> 
+CCCCCCCCCC[C@H](O)[C@@H]1CC[C@H]([C@@H]2CC[C@H]([C@@H](O)CCCCCCCCCC[C@H](O)CC3=C[C@@H](C)OC3=O)O2)O1
+
+> <DOI> 
+10.1016/S0031-9422(97)00153-2
+
+> <DOI> 
+10.1139/V87-242
+
+> <DOI> 
+10.1002/HLCA.19930760324
+
+> <DOI> 
+10.1055/S-1999-13961
+
+> <DOI> 
+10.3987/COM-88-S6
+
+> <DOI> 
+10.1021/NP990181M
+
+> <DOI> 
+10.1016/S0960-894X(97)00171-6
+
+> <DOI> 
+10.1016/0031-9422(96)00050-7
+
+> <DOI> 
+10.1016/0021-9673(93)83334-O
+
+> <DOI> 
+10.1002/PCA.2800050309
+
+> <DOI> 
+10.1080/10575639908048786
+
+> <Unordered_taxonomy> 
+Plantae,Magnoliopsida,Annona,Annona atemoya,Eukaryota,Ophrypetalum odoratum,Ophrypetalum,Annona mucosa,Archaeplastida,Annona purpurea,Annonaceae,Annona × atemoya,Annona muricata,Tracheophyta,Annona emarginata,Streptophyta,Viridiplantae,Annona rensoniana
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 24 26 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.732 -0.5 0 0
+M  V30 2 O 0.866 0 0 0
+M  V30 3 C 0 -0.5 0 0
+M  V30 4 C -0.866 0 0 0
+M  V30 5 C -1.732 -0.4999 0 0
+M  V30 6 C -1.732 -1.4999 0 0
+M  V30 7 C -2.598 -1.9999 0 0
+M  V30 8 C -2.598 -2.9999 0 0 CFG=1
+M  V30 9 C -3.4641 -3.4999 0 0
+M  V30 10 C -4.3301 -2.9999 0 0
+M  V30 11 C -5.1961 -3.4999 0 0
+M  V30 12 O -6.0621 -2.9999 0 0
+M  V30 13 C -5.1961 -4.4999 0 0
+M  V30 14 O -6.0621 -4.9999 0 0
+M  V30 15 C -6.0621 -5.9999 0 0
+M  V30 16 C -4.3301 -4.9999 0 0
+M  V30 17 C -3.4641 -4.4999 0 0
+M  V30 18 C -2.598 -4.9999 0 0
+M  V30 19 C -1.732 -4.4999 0 0
+M  V30 20 N -1.732 -3.4999 0 0
+M  V30 21 C -0.866 -2.9999 0 0
+M  V30 22 C -0.866 -1.9999 0 0
+M  V30 23 C 0 -1.4999 0 0
+M  V30 24 O 0.866 -2 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 1 8 7 CFG=3
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 2 11 13
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 13 16
+M  V30 16 2 16 17
+M  V30 17 1 9 17
+M  V30 18 1 17 18
+M  V30 19 1 18 19
+M  V30 20 1 19 20
+M  V30 21 1 8 20
+M  V30 22 1 20 21
+M  V30 23 1 6 22
+M  V30 24 2 22 23
+M  V30 25 1 3 23
+M  V30 26 1 23 24
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(1 8)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0181650
+
+> <SMILES> 
+COc1ccc(C[C@H]2c3cc(O)c(OC)cc3CCN2C)cc1O
+
+> <DOI> 
+10.1016/S0305-1978(99)00083-6
+
+> <DOI> 
+10.1055/S-2007-969787
+
+> <DOI> 
+10.1021/NP50046A007
+
+> <DOI> 
+10.1177/1934578X0700200115
+
+> <DOI> 
+10.1007/BF00598536
+
+> <DOI> 
+10.1007/978-1-4899-1783-6_3
+
+> <DOI> 
+10.1016/S0040-4020(01)80794-8
+
+> <DOI> 
+10.1016/0031-9422(91)85144-O
+
+> <DOI> 
+10.1021/NP000373D
+
+> <DOI> 
+10.1515/ZNB-2009-0717
+
+> <DOI> 
+10.1021/NP50023A017
+
+> <DOI> 
+10.1201/B16160-69
+
+> <DOI> 
+10.1021/NP070293A
+
+> <DOI> 
+10.1016/S0378-8741(98)00044-0
+
+> <DOI> 
+10.1055/S-2007-969876
+
+> <DOI> 
+10.1021/NP50071A022
+
+> <DOI> 
+10.1007/BF00630533
+
+> <DOI> 
+10.1021/NP990548N
+
+> <DOI> 
+10.1021/NP50077A016
+
+> <DOI> 
+10.1016/J.PHYTOL.2011.11.001
+
+> <DOI> 
+10.1515/ZNC-2003-7-813
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2004.03.017
+
+> <DOI> 
+10.1021/NP50022A020
+
+> <DOI> 
+10.1021/NP50037A038
+
+> <DOI> 
+10.1021/NP100247R
+
+> <DOI> 
+10.1248/YAKUSHI1947.93.12_1674
+
+> <DOI> 
+10.1016/S0031-9422(00)00068-6
+
+> <DOI> 
+10.3390/MOLECULES16043119
+
+> <DOI> 
+10.1080/10575639508044088
+
+> <DOI> 
+10.1021/NP50036A045
+
+> <DOI> 
+10.1007/BF00630233
+
+> <DOI> 
+10.1016/J.FITOTE.2011.01.021
+
+> <DOI> 
+10.1055/S-2007-969081
+
+> <DOI> 
+10.1016/S0040-4039(00)95338-3
+
+> <DOI> 
+10.1021/NP50036A043
+
+> <DOI> 
+10.1021/NP50036A042
+
+> <DOI> 
+10.1007/BF00571044
+
+> <DOI> 
+10.1021/NP50099A005
+
+> <DOI> 
+10.1021/NP50064A031
+
+> <DOI> 
+10.1021/NP50023A008
+
+> <DOI> 
+10.3390/MOLECULES15129462
+
+> <DOI> 
+10.1248/CPB.45.545
+
+> <DOI> 
+10.1002/(SICI)1099-1565(199909/10)10:5<254::AID-PCA462>3.0.CO;2-Q
+
+> <DOI> 
+10.1007/BF00598384
+
+> <DOI> 
+10.3109/13880208909053957
+
+> <DOI> 
+10.1007/BF00630680
+
+> <DOI> 
+10.1016/S0305-1978(98)00038-6
+
+> <DOI> 
+10.1007/BF00565157
+
+> <DOI> 
+10.1016/0031-9422(74)85128-9
+
+> <DOI> 
+10.1021/NP50031A035
+
+> <DOI> 
+10.1007/BF00629649
+
+> <DOI> 
+10.1055/S-2006-957745
+
+> <DOI> 
+10.1016/0021-9673(94)89083-8
+
+> <DOI> 
+10.1016/S0031-9422(00)84526-4
+
+> <DOI> 
+10.1007/S12272-009-1111-7
+
+> <DOI> 
+10.1002/JSSC.201000243
+
+> <DOI> 
+10.1021/NP50046A044
+
+> <DOI> 
+10.1021/NP50054A017
+
+> <DOI> 
+10.1021/NP50064A024
+
+> <DOI> 
+10.1021/NP960223W
+
+> <DOI> 
+10.1111/J.2042-7158.1988.TB05176.X
+
+> <DOI> 
+10.1016/S0031-9422(97)00435-4
+
+> <DOI> 
+10.1007/BF00630120
+
+> <DOI> 
+10.1021/NP060156Y
+
+> <DOI> 
+10.3390/MOLECULES16043001
+
+> <DOI> 
+10.1021/NP50043A011
+
+> <DOI> 
+10.1021/NP50062A043
+
+> <DOI> 
+10.1007/BF00576235
+
+> <DOI> 
+10.1016/0031-9422(90)85265-H
+
+> <DOI> 
+10.1248/YAKUSHI1947.94.7_844
+
+> <DOI> 
+10.1002/JLAC.1990199001104
+
+> <DOI> 
+10.1007/BF00638780
+
+> <DOI> 
+10.1002/JCCS.199200031
+
+> <DOI> 
+10.3109/13880208809053911
+
+> <DOI> 
+10.1007/BF00631020
+
+> <DOI> 
+10.1016/0031-9422(90)85264-G
+
+> <DOI> 
+10.1055/S-2006-957634
+
+> <DOI> 
+10.1021/NP50046A037
+
+> <DOI> 
+10.1002/PCA.2800040204
+
+> <DOI> 
+10.1055/S-2006-961021
+
+> <DOI> 
+10.1016/S0040-4039(00)79894-7
+
+> <DOI> 
+10.1016/S0031-9422(00)00486-6
+
+> <DOI> 
+10.1007/BF00269216
+
+> <DOI> 
+10.1016/0305-1978(90)90032-B
+
+> <DOI> 
+10.3184/030823408X320674
+
+> <DOI> 
+10.1016/J.BMCL.2010.06.035
+
+> <DOI> 
+10.1074/JBC.M002439200
+
+> <DOI> 
+10.1007/BF00631016
+
+> <DOI> 
+10.1139/V93-149
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2006.07.011
+
+> <DOI> 
+10.1007/BF00630564
+
+> <DOI> 
+10.1021/NP50041A025
+
+> <DOI> 
+10.1016/S0031-9422(00)80771-2
+
+> <DOI> 
+10.1007/BF00631012
+
+> <DOI> 
+10.1016/S0031-9422(00)81765-3
+
+> <DOI> 
+10.1021/NP50021A003
+
+> <DOI> 
+10.1016/J.BMCL.2007.08.027
+
+> <DOI> 
+10.1021/NP50046A023
+
+> <DOI> 
+10.1515/ZNB-2007-0915
+
+> <DOI> 
+10.1007/BF00575709
+
+> <DOI> 
+10.1021/NP50045A032
+
+> <DOI> 
+10.1038/010005D0
+
+> <DOI> 
+10.1021/NP010236W
+
+> <DOI> 
+10.1016/S0305-1978(02)00164-3
+
+> <DOI> 
+10.1021/NP50004A007
+
+> <DOI> 
+10.1021/NP010036K
+
+> <DOI> 
+10.1016/0031-9422(94)00961-R
+
+> <DOI> 
+10.1016/S0305-1978(97)00101-4
+
+> <DOI> 
+10.1016/0031-9422(88)84134-7
+
+> <DOI> 
+10.1007/BF00575177
+
+> <DOI> 
+10.1248/CPB.45.470
+
+> <DOI> 
+10.1007/BF00564415
+
+> <DOI> 
+10.1007/BF00580053
+
+> <DOI> 
+10.1016/J.FITOTE.2007.11.025
+
+> <DOI> 
+10.1007/BF00579509
+
+> <DOI> 
+10.1021/NP50108A001
+
+> <DOI> 
+10.1021/NP960195H
+
+> <DOI> 
+10.1016/S0031-9422(00)00222-3
+
+> <DOI> 
+10.1055/S-2007-969493
+
+> <DOI> 
+10.1016/0378-8741(92)90058-Y
+
+> <DOI> 
+10.1071/CH9901949
+
+> <DOI> 
+10.1016/0031-9422(82)83185-3
+
+> <DOI> 
+10.1055/S-2000-8562
+
+> <Unordered_taxonomy> 
+Thalictrum,Papaver fugax,Thalictrum pedunculatum,Annona spinescens,Artabotrys,Annona purpurea,Miliusa velutina,Cissampelos,Aconitum seravschanicum,Coptis,Aniba canelilla,Siparuna apiosyce,Cryptobasidiaceae,Magnolia,Dehaasia hainanensis,Annona,Hypserpa nitida,Laurus,Monimiaceae,Corydalis caucasica,Archaeplastida,Laureliopsis philippiana,Miliusa,Neolitsea acuminatissima,Corydalis,Animalia,Stephania viridiflavens,Papaver somniferum,Berberis heterobotrys,Ocotea pittieri,Annona reticulata,Laurobasidium lauri,Dicentra,Glaucium,Leontice leontopetalum,Stephania cephalantha,Ranunculaceae,Plantae,Ocotea velloziana,Eschscholzia californica,Hernandia,Annona cherimola,Annona glabra,Croton hemiargyreus,Argemone,Glaucium flavum,Gerridae,Laurobasidiaceae,Corydalis rutifolia,Glossocalyx,Porcelia macrocarpa,Oxandra,Peumus,Orophea,Dehaasia,Magnoliopsida,Glaucium fimbrilligerum,Berberis nummularia,Aristolochiaceae,Guatteria goudotiana,Basidiomycota,Neolitsea konishii,Fungi,Arctomecon humile,Artabotrys hexapetalus,Lindera megaphylla,Clematis,Clematis parviloba,Streptophyta,Argemone mexicana,Cryptocarya griffithiana var. crassinervia,Monodora junodii,Artabotrys venustus,Cymbopetalum,Cymbopetalum brasiliense,Guatteria juruensis,Arthropoda,Actinodaphne longifolia,Phoebe,Exobasidiaceae,Leptadenia reticulata,Stephania venosa,Berberis brandisiana,Porcelia,Litsea cubeba,Euphorbiaceae,Siparuna grandiflora,Coptis japonica,Viridiplantae,Glossocalyx brevipes,Exobasidiomycetes,Monocyclanthus,Aristolochia gigantea,Fabaceae,Uvaria,Isopyrum,Berberis integerrima,Greenwayodendron oliveri,Neolitsea aciculata,Aconitum,Annona emarginata,Litsea lancifolia,Corydalis pseudoadunca,Argemone platyceras,Corydalis gortschakovii,Greenwayodendron,Fumaria vaillantii,Gyrocarpus,Bongardia,Cryptocarya griffithiana,Laureliopsis,Aniba muca,Siparunaceae,Papaveraceae,Meiogyne,Stephania,Argemone albiflora subsp. albiflora,Papaver acrochaetum,Hernandiaceae,Leptadenia,Neolitsea,Argemone polyanthemos,Stephania pierrei,Hubera,Magnolia salicifolia,Equisetopsida,Argemone ochroleuca,Pachygone,Corydalis taliensis,Litsea elliptica,Lindera glauca,Meiogyne tiebaghiensis,Aniba,Glaucium corniculatum,Ocotea,Oxandra major,Peumus boldus,Actinodaphne,Dicentra peregrina,Laurobasidium,Croton celtidifolius,Cryptocarya,Magnoliaceae,Orophea hexandra,Ceratocapnos claviculata,Hernandia nymphaeifolia,Papaver gracile,Laurus nobilis,Annonaceae,Croton,Berberidaceae,Xylopia,Trepobates,Papaver cylindricum,Monocyclanthus vignei,Papaver,Erythrina variegata,Eschscholzia,Guatteria,Cissampelos capensis,Erythrina,Siparuna,Insecta,Ocotea duckei,Corydalis ternata,Nectandra,Artabotrys monteiroae,Pachygone ovata,Corydalis orthopoda,Xylopia papuana,Leontice,Eukaryota,Delphinium,Hypserpa,Tracheophyta,Ceratocapnos,Lindera,Litsea lecardii,Thalictrum foliolosum,Fumaria,Metazoa,Hubera cerasoides,Fumaria capreolata,Uvaria dulcis,Phoebe formosana,Arctomecon,Nectandra salicifolia,Berberis stolonifera,Menispermaceae,Gyrocarpus americanus,Apocynaceae,Atherospermataceae,Litsea,Lauraceae,Pachygone ovata ex,Berberis heteropoda,Isopyrum thalictroides,Berberis,Delphinium pentagynum,Papaver persicum,Magnolia biondii,Annona salzmannii,Monodora,Aristolochia,Hernandia cordigera,Argemone albiflora,Magnolia officinalis,Ceratocapnos claviculata subsp. claviculata,Bongardia chrysogonum,Xylopia parviflora,Lindera aggregata
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 44 46 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 7.7801 -11.6391 0 0
+M  V30 2 C 7.988 -10.6609 0 0
+M  V30 3 C 8.9391 -10.3519 0 0
+M  V30 4 C 9.147 -9.3738 0 0
+M  V30 5 C 10.098 -9.0647 0 0
+M  V30 6 C 10.3059 -8.0866 0 0
+M  V30 7 C 11.257 -7.7776 0 0
+M  V30 8 C 11.4649 -6.7994 0 0
+M  V30 9 C 12.416 -6.4904 0 0
+M  V30 10 C 12.6239 -5.5123 0 0
+M  V30 11 C 13.5749 -5.2032 0 0
+M  V30 12 O 14.3181 -5.8724 0 0
+M  V30 13 C 13.7828 -4.2251 0 0 CFG=2
+M  V30 14 C 14.6964 -3.8184 0 0
+M  V30 15 C 14.5919 -2.8238 0 0
+M  V30 16 C 13.6137 -2.6159 0 0 CFG=2
+M  V30 17 C 13.207 -1.7024 0 0 CFG=1
+M  V30 18 C 13.707 -0.8364 0 0
+M  V30 19 C 13.0379 -0.0932 0 0
+M  V30 20 C 12.1243 -0.5 0 0
+M  V30 21 C 11.2583 0 0 0 CFG=1
+M  V30 22 O 11.2583 1 0 0
+M  V30 23 C 10.3923 -0.5 0 0
+M  V30 24 C 9.5262 0 0 0
+M  V30 25 C 8.6602 -0.5 0 0
+M  V30 26 C 7.7942 0 0 0
+M  V30 27 C 6.9282 -0.5 0 0
+M  V30 28 C 6.0621 0 0 0
+M  V30 29 C 5.1961 -0.5 0 0
+M  V30 30 C 4.3301 0 0 0
+M  V30 31 C 3.4641 -0.5 0 0
+M  V30 32 C 2.598 0 0 0
+M  V30 33 C 1.732 -0.5 0 0 CFG=2
+M  V30 34 O 1.732 -1.5 0 0
+M  V30 35 C 0.866 0 0 0
+M  V30 36 C 0 -0.5 0 0
+M  V30 37 C -0.9135 -0.0932 0 0
+M  V30 38 C -1.5826 -0.8364 0 0 CFG=1
+M  V30 39 C -2.5771 -0.7318 0 0
+M  V30 40 O -1.0826 -1.7024 0 0
+M  V30 41 C -0.1045 -1.4945 0 0
+M  V30 42 O 0.6386 -2.1636 0 0
+M  V30 43 O 12.2288 -1.4945 0 0
+M  V30 44 O 13.1137 -3.482 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 1 13 11 CFG=1
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 16 15
+M  V30 16 1 17 16
+M  V30 17 1 17 18
+M  V30 18 1 18 19
+M  V30 19 1 19 20
+M  V30 20 1 21 20
+M  V30 21 1 21 22 CFG=3
+M  V30 22 1 21 23
+M  V30 23 1 23 24
+M  V30 24 1 24 25
+M  V30 25 1 25 26
+M  V30 26 1 26 27
+M  V30 27 1 27 28
+M  V30 28 1 28 29
+M  V30 29 1 29 30
+M  V30 30 1 30 31
+M  V30 31 1 31 32
+M  V30 32 1 33 32
+M  V30 33 1 33 34 CFG=3
+M  V30 34 1 33 35
+M  V30 35 1 35 36
+M  V30 36 2 36 37
+M  V30 37 1 38 37
+M  V30 38 1 38 39 CFG=3
+M  V30 39 1 38 40
+M  V30 40 1 40 41
+M  V30 41 1 36 41
+M  V30 42 2 41 42
+M  V30 43 1 20 43
+M  V30 44 1 17 43 CFG=3
+M  V30 45 1 16 44 CFG=1
+M  V30 46 1 13 44
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(6 13 16 17 21 33 38)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0039602
+
+> <SMILES> 
+CCCCCCCCCCC(O)[C@@H]1CC[C@H]([C@H]2CCC([C@@H](O)CCCCCCCCCC[C@H](O)CC3=C[C@@H](C)OC3=O)O2)O1
+
+> <DOI> 
+10.1016/S0031-9422(97)00153-2
+
+> <DOI> 
+10.1139/V87-242
+
+> <DOI> 
+10.1002/HLCA.19930760324
+
+> <DOI> 
+10.1055/S-1999-13961
+
+> <DOI> 
+10.1016/S0031-9422(97)00917-5
+
+> <DOI> 
+10.3987/COM-88-S6
+
+> <DOI> 
+10.1021/NP990181M
+
+> <DOI> 
+10.1016/S0960-894X(97)00171-6
+
+> <DOI> 
+10.1016/0031-9422(96)00050-7
+
+> <DOI> 
+10.1016/0021-9673(93)83334-O
+
+> <DOI> 
+10.1080/10575639908048786
+
+> <DOI> 
+10.1002/PCA.2800050309
+
+> <Unordered_taxonomy> 
+Plantae,Magnoliopsida,Annona,Annona atemoya,Eukaryota,Ophrypetalum odoratum,Ophrypetalum,Annona mucosa,Archaeplastida,Annona purpurea,Annonaceae,Annona × atemoya,Annona muricata,Tracheophyta,Annona emarginata,Streptophyta,Viridiplantae,Annona rensoniana
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 20 23 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.732 -0.5 0 0
+M  V30 2 O 0.866 0 0 0
+M  V30 3 C 0 -0.5 0 0
+M  V30 4 C -0.866 0 0 0
+M  V30 5 O -0.866 1 0 0
+M  V30 6 C -1.732 -0.4999 0 0
+M  V30 7 C -1.732 -1.4999 0 0
+M  V30 8 C -0.866 -1.9999 0 0
+M  V30 9 C 0 -1.4999 0 0
+M  V30 10 C 0.866 -1.9999 0 0
+M  V30 11 C 1.732 -1.5 0 0
+M  V30 12 C 2.598 -2 0 0
+M  V30 13 C 2.598 -3 0 0
+M  V30 14 C 1.732 -3.5 0 0
+M  V30 15 C 0.866 -3 0 0
+M  V30 16 C 0 -3.4999 0 0
+M  V30 17 C -0.866 -2.9999 0 0 CFG=1
+M  V30 18 N -1.732 -3.4999 0 0
+M  V30 19 C -2.598 -2.9999 0 0
+M  V30 20 C -2.598 -1.9999 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 4 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 3 9
+M  V30 10 1 9 10
+M  V30 11 2 10 11
+M  V30 12 1 11 12
+M  V30 13 2 12 13
+M  V30 14 1 13 14
+M  V30 15 2 14 15
+M  V30 16 1 10 15
+M  V30 17 1 15 16
+M  V30 18 1 17 16
+M  V30 19 1 8 17
+M  V30 20 1 17 18 CFG=1
+M  V30 21 1 18 19
+M  V30 22 1 19 20
+M  V30 23 1 7 20
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(1 17)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0061350
+
+> <SMILES> 
+COc1c(O)cc2c3c1-c1ccccc1C[C@H]3NCC2
+
+> <DOI> 
+10.1016/J.BMC.2006.10.034
+
+> <DOI> 
+10.1007/S10600-011-9919-Z
+
+> <DOI> 
+10.1021/NP50041A025
+
+> <DOI> 
+10.1021/NP50054A017
+
+> <DOI> 
+10.1055/S-2006-960213
+
+> <DOI> 
+10.1016/0031-9422(90)85344-F
+
+> <DOI> 
+10.1021/NP50099A005
+
+> <DOI> 
+10.1021/NP100247R
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2006.07.011
+
+> <DOI> 
+10.1016/0031-9422(84)83108-8
+
+> <DOI> 
+10.1071/CH9712187
+
+> <DOI> 
+10.1002/JLAC.198219820905
+
+> <DOI> 
+10.1086/329604
+
+> <DOI> 
+10.1021/NP990085L
+
+> <DOI> 
+10.1055/S-2006-960784
+
+> <DOI> 
+10.1016/S0040-4039(97)00051-8
+
+> <DOI> 
+10.1021/NP50031A035
+
+> <DOI> 
+10.1021/NP50077A016
+
+> <DOI> 
+10.1021/NP50091A005
+
+> <DOI> 
+10.1021/NP010036K
+
+> <DOI> 
+10.1021/NP50046A007
+
+> <DOI> 
+10.1016/J.FITOTE.2011.11.009
+
+> <DOI> 
+10.1021/NP50046A037
+
+> <DOI> 
+10.1007/BF00568496
+
+> <DOI> 
+10.1016/S0031-9422(00)82561-3
+
+> <DOI> 
+10.1002/JCCS.199300031
+
+> <DOI> 
+10.1016/S0031-9422(00)81449-1
+
+> <DOI> 
+10.1055/S-2006-961021
+
+> <DOI> 
+10.1021/NP50062A009
+
+> <DOI> 
+10.1055/S-2006-962386
+
+> <DOI> 
+10.1002/JCCS.200400131
+
+> <DOI> 
+10.1002/PCA.2800040204
+
+> <DOI> 
+10.1021/NP50037A038
+
+> <DOI> 
+10.1016/J.FITOTE.2011.01.021
+
+> <DOI> 
+10.1002/JCCS.200100177
+
+> <DOI> 
+10.1021/NP000373D
+
+> <DOI> 
+10.1248/CPB.48.1006
+
+> <DOI> 
+10.1007/S10600-010-9708-0
+
+> <DOI> 
+10.1021/NP060268P
+
+> <DOI> 
+10.1016/0021-9673(94)89083-8
+
+> <DOI> 
+10.1016/S0944-7113(97)80059-1
+
+> <DOI> 
+10.1021/NP50052A044
+
+> <DOI> 
+10.1016/S0367-326X(99)00021-0
+
+> <DOI> 
+10.1002/JCCS.200000124
+
+> <DOI> 
+10.1016/S0305-1978(03)00119-4
+
+> <DOI> 
+10.1021/NP000176E
+
+> <DOI> 
+10.1021/NP50023A017
+
+> <DOI> 
+10.1021/NP50022A020
+
+> <DOI> 
+10.1016/S0305-1978(97)00101-4
+
+> <DOI> 
+10.1248/YAKUSHI1947.85.1_77
+
+> <DOI> 
+NA
+
+> <DOI> 
+10.1016/S0305-1978(98)00038-6
+
+> <DOI> 
+10.1016/0031-9422(82)83185-3
+
+> <DOI> 
+10.1055/S-2007-969787
+
+> <DOI> 
+10.1007/BF01170231
+
+> <DOI> 
+10.1590/S0103-50532003000300009
+
+> <DOI> 
+10.1021/NP50052A036
+
+> <Unordered_taxonomy> 
+Greenwayodendron,Liriodendron tulipifera,Laureliopsis,Hubera pendula,Siparunaceae,Meiogyne virgata,Meiogyne,Artabotrys,Stephania,Fissistigma,Magnolia alba,Stephania pierrei,Hubera,Equisetopsida,Siparuna apiosyce,Magnolia,Annona,Archaeplastida,Laureliopsis philippiana,Meiogyne tiebaghiensis,Polyalthia,Hexalobus crispiflorus,Nelumbo nucifera,Magnoliaceae,Orophea hexandra,Magnolia kobus,Annonaceae,Beilschmiedia,Plantae,Annona hayesii,Annona cherimola,Annona glabra,Polyalthia insignis,Monocyclanthus vignei,Fissistigma oldhamii,Nelumbo,Gentianaceae,Aristolochia cucurbitifolia,Glossocalyx,Annona muricata,Nelumbo nucifera subsp. nucifera,Porcelia macrocarpa,Orophea,Siparuna,Cardiopetalum calophyllum,Magnoliopsida,Asimina,Artabotrys monteiroae,Aristolochiaceae,Artabotrys hexapetalus,Eukaryota,Magnolia wieseneri,Tracheophyta,Streptophyta,Magnolia wiesneri,Monodora junodii,Magnolia obovata,Artabotrys venustus,Cymbopetalum,Annona cacans,Magnolia soulangeana,Cymbopetalum brasiliense,Disepalum,Uvaria dulcis,Hexalobus,Magnolia × wiesneri,Magnolia × soulangeana,Phoebe formosana,Phoebe,Artabotrys brachypetalus,Liriodendron,Stephania venosa,Disepalum pulchrum,Menispermaceae,Asimina triloba,Meiogyne monosperma,Atherospermataceae,Porcelia,Chelonanthus,Siparuna grandiflora,Polyalthia stenopetala,Fissistigma punctulatum,Lauraceae,Viridiplantae,Glossocalyx brevipes,Nelumbonaceae,Hexalobus monopetalus,Monocyclanthus,Fissistigma glaucescens,Uvaria,Monodora,Aristolochia,Beilschmiedia alloiophylla,Cardiopetalum,Chelonanthus albus,Magnolia officinalis,Greenwayodendron oliveri,Annona emarginata
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 45 47 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 14.2894 0 0 0
+M  V30 2 C 12.9903 -0.75 0 0
+M  V30 3 C 11.6913 0 0 0
+M  V30 4 C 10.3923 -0.75 0 0
+M  V30 5 C 9.0932 0 0 0
+M  V30 6 C 7.7942 -0.75 0 0
+M  V30 7 C 6.4951 0 0 0
+M  V30 8 C 5.1961 -0.75 0 0
+M  V30 9 C 3.8971 0 0 0
+M  V30 10 C 2.598 -0.75 0 0
+M  V30 11 C 1.299 0 0 0 CFG=2
+M  V30 12 O 1.299 1.5 0 0
+M  V30 13 C 0 -0.75 0 0 CFG=1
+M  V30 14 C -1.3703 -0.1398 0 0
+M  V30 15 C -2.374 -1.2546 0 0
+M  V30 16 C -1.624 -2.5536 0 0 CFG=1
+M  V30 17 C -2.2341 -3.9239 0 0 CFG=1
+M  V30 18 O -1.3524 -5.1374 0 0
+M  V30 19 C -3.7259 -4.0807 0 0
+M  V30 20 C -4.336 -5.451 0 0
+M  V30 21 C -5.8277 -5.6078 0 0 CFG=2
+M  V30 22 O -6.7094 -4.3943 0 0
+M  V30 23 C -6.4378 -6.9781 0 0 CFG=2
+M  V30 24 C -7.9051 -7.29 0 0
+M  V30 25 C -8.0619 -8.7818 0 0
+M  V30 26 C -6.6915 -9.3919 0 0
+M  V30 27 C -6.3797 -10.8591 0 0
+M  V30 28 C -4.9531 -11.3226 0 0
+M  V30 29 C -4.6412 -12.7899 0 0
+M  V30 30 C -3.2146 -13.2534 0 0
+M  V30 31 C -2.9028 -14.7206 0 0
+M  V30 32 C -1.4762 -15.1841 0 0
+M  V30 33 C -1.1643 -16.6514 0 0
+M  V30 34 C 0.2622 -17.1149 0 0 CFG=1
+M  V30 35 O 1.3769 -16.1112 0 0
+M  V30 36 C 0.574 -18.5821 0 0
+M  V30 37 C 2.0006 -19.0456 0 0
+M  V30 38 C 2.4641 -20.4722 0 0
+M  V30 39 C 3.9641 -20.4722 0 0 CFG=2
+M  V30 40 C 4.8458 -21.6857 0 0
+M  V30 41 O 4.4277 -19.0456 0 0
+M  V30 42 C 3.2141 -18.164 0 0
+M  V30 43 O 3.2141 -16.664 0 0
+M  V30 44 O -5.6878 -8.2772 0 0
+M  V30 45 O -0.1567 -2.2417 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 11 10
+M  V30 11 1 11 12 CFG=1
+M  V30 12 1 13 11
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 16 15
+M  V30 16 1 17 16
+M  V30 17 1 17 18 CFG=1
+M  V30 18 1 17 19
+M  V30 19 1 19 20
+M  V30 20 1 21 20
+M  V30 21 1 21 22 CFG=1
+M  V30 22 1 23 21
+M  V30 23 1 23 24
+M  V30 24 1 24 25
+M  V30 25 1 25 26
+M  V30 26 1 26 27
+M  V30 27 1 27 28
+M  V30 28 1 28 29
+M  V30 29 1 29 30
+M  V30 30 1 30 31
+M  V30 31 1 31 32
+M  V30 32 1 32 33
+M  V30 33 1 34 33
+M  V30 34 1 34 35 CFG=1
+M  V30 35 1 34 36
+M  V30 36 1 36 37
+M  V30 37 2 37 38
+M  V30 38 1 39 38
+M  V30 39 1 39 40 CFG=1
+M  V30 40 1 39 41
+M  V30 41 1 41 42
+M  V30 42 1 37 42
+M  V30 43 2 42 43
+M  V30 44 1 26 44
+M  V30 45 1 23 44 CFG=1
+M  V30 46 1 16 45 CFG=3
+M  V30 47 1 13 45 CFG=3
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(8 11 13 16 17 21 23 34 39)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0025715
+
+> <SMILES> 
+CCCCCCCCCC[C@H](O)[C@H]1CC[C@@H]([C@@H](O)CC[C@H](O)[C@@H]2CCC(CCCCCCC[C@@H](O)CC3=C[C@H](C)OC3=O)O2)O1
+
+> <DOI> 
+10.3987/COM-95-7117
+
+> <DOI> 
+10.1016/0021-9673(93)83334-O
+
+> <DOI> 
+10.1055/S-1999-13961
+
+> <DOI> 
+10.1021/NP990181M
+
+> <DOI> 
+10.1021/NP960213V
+
+> <DOI> 
+10.1007/BF01951779
+
+> <DOI> 
+10.1002/HLCA.19930760324
+
+> <DOI> 
+10.1007/BF02941807
+
+> <Unordered_taxonomy> 
+Plantae,Annona sylvatica,Magnoliopsida,Annona,Eukaryota,Annona mucosa,Archaeplastida,Annona purpurea,Annonaceae,Tracheophyta,Annona emarginata,Streptophyta,Viridiplantae,Annona rensoniana
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 45 47 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 14.2894 0 0 0
+M  V30 2 C 12.9903 -0.75 0 0
+M  V30 3 C 11.6913 0 0 0
+M  V30 4 C 10.3923 -0.75 0 0
+M  V30 5 C 9.0932 0 0 0
+M  V30 6 C 7.7942 -0.75 0 0
+M  V30 7 C 6.4951 0 0 0
+M  V30 8 C 5.1961 -0.75 0 0
+M  V30 9 C 3.8971 0 0 0
+M  V30 10 C 2.598 -0.75 0 0
+M  V30 11 C 1.299 0 0 0 CFG=1
+M  V30 12 O 1.299 1.5 0 0
+M  V30 13 C 0 -0.75 0 0 CFG=2
+M  V30 14 C -1.3703 -0.1398 0 0
+M  V30 15 C -2.374 -1.2546 0 0
+M  V30 16 C -1.624 -2.5536 0 0 CFG=2
+M  V30 17 C -2.2341 -3.9239 0 0 CFG=2
+M  V30 18 O -1.3524 -5.1374 0 0
+M  V30 19 C -3.7259 -4.0807 0 0
+M  V30 20 C -4.336 -5.451 0 0
+M  V30 21 C -5.8277 -5.6078 0 0 CFG=2
+M  V30 22 O -6.7094 -4.3943 0 0
+M  V30 23 C -6.4378 -6.9781 0 0 CFG=2
+M  V30 24 C -7.9051 -7.29 0 0
+M  V30 25 C -8.0619 -8.7818 0 0
+M  V30 26 C -6.6915 -9.3919 0 0 CFG=1
+M  V30 27 C -6.3797 -10.8591 0 0
+M  V30 28 C -4.9531 -11.3226 0 0
+M  V30 29 C -4.6412 -12.7899 0 0
+M  V30 30 C -3.2146 -13.2534 0 0
+M  V30 31 C -2.9028 -14.7206 0 0
+M  V30 32 C -1.4762 -15.1841 0 0
+M  V30 33 C -1.1643 -16.6514 0 0
+M  V30 34 C 0.2622 -17.1149 0 0 CFG=1
+M  V30 35 O 1.3769 -16.1112 0 0
+M  V30 36 C 0.574 -18.5821 0 0
+M  V30 37 C 2.0006 -19.0456 0 0
+M  V30 38 C 2.4641 -20.4722 0 0
+M  V30 39 C 3.9641 -20.4722 0 0 CFG=2
+M  V30 40 C 4.8458 -21.6857 0 0
+M  V30 41 O 4.4277 -19.0456 0 0
+M  V30 42 C 3.2141 -18.164 0 0
+M  V30 43 O 3.2141 -16.664 0 0
+M  V30 44 O -5.6878 -8.2772 0 0
+M  V30 45 O -0.1567 -2.2417 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 11 10
+M  V30 11 1 11 12 CFG=3
+M  V30 12 1 13 11
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 16 15
+M  V30 16 1 17 16
+M  V30 17 1 17 18 CFG=3
+M  V30 18 1 17 19
+M  V30 19 1 19 20
+M  V30 20 1 21 20
+M  V30 21 1 21 22 CFG=1
+M  V30 22 1 23 21
+M  V30 23 1 23 24
+M  V30 24 1 24 25
+M  V30 25 1 26 25
+M  V30 26 1 26 27 CFG=3
+M  V30 27 1 27 28
+M  V30 28 1 28 29
+M  V30 29 1 29 30
+M  V30 30 1 30 31
+M  V30 31 1 31 32
+M  V30 32 1 32 33
+M  V30 33 1 34 33
+M  V30 34 1 34 35 CFG=1
+M  V30 35 1 34 36
+M  V30 36 1 36 37
+M  V30 37 2 37 38
+M  V30 38 1 39 38
+M  V30 39 1 39 40 CFG=1
+M  V30 40 1 39 41
+M  V30 41 1 41 42
+M  V30 42 1 37 42
+M  V30 43 2 42 43
+M  V30 44 1 26 44
+M  V30 45 1 23 44 CFG=1
+M  V30 46 1 16 45 CFG=1
+M  V30 47 1 13 45 CFG=1
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(9 11 13 16 17 21 23 26 34 39)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0046220
+
+> <SMILES> 
+CCCCCCCCCC[C@@H](O)[C@@H]1CC[C@H]([C@H](O)CC[C@H](O)[C@@H]2CC[C@@H](CCCCCCC[C@@H](O)CC3=C[C@H](C)OC3=O)O2)O1
+
+> <DOI> 
+10.1002/HLCA.19930760324
+
+> <DOI> 
+10.1055/S-1999-13961
+
+> <DOI> 
+10.1021/NP990181M
+
+> <DOI> 
+10.1021/NP960213V
+
+> <DOI> 
+10.1007/BF01951779
+
+> <DOI> 
+10.1016/0021-9673(93)83334-O
+
+> <DOI> 
+10.3987/COM-95-7117
+
+> <DOI> 
+10.1021/NP960487I
+
+> <DOI> 
+10.1007/BF02941807
+
+> <Unordered_taxonomy> 
+Plantae,Annona sylvatica,Magnoliopsida,Annona,Eukaryota,Annona mucosa,Archaeplastida,Annona purpurea,Annonaceae,Tracheophyta,Annona emarginata,Streptophyta,Viridiplantae,Annona rensoniana
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 45 47 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 19.4855 0 0 0
+M  V30 2 C 18.1865 -0.75 0 0
+M  V30 3 C 16.8874 0 0 0
+M  V30 4 C 15.5884 -0.75 0 0
+M  V30 5 C 14.2894 0 0 0
+M  V30 6 C 12.9903 -0.75 0 0
+M  V30 7 C 11.6913 0 0 0
+M  V30 8 C 10.3923 -0.75 0 0
+M  V30 9 C 9.0932 0 0 0
+M  V30 10 C 7.7942 -0.75 0 0
+M  V30 11 C 6.4951 0 0 0 CFG=2
+M  V30 12 O 6.4951 1.5 0 0
+M  V30 13 C 5.1961 -0.75 0 0 CFG=2
+M  V30 14 O 5.1961 -2.25 0 0
+M  V30 15 C 3.8971 0 0 0
+M  V30 16 C 2.598 -0.75 0 0
+M  V30 17 C 1.299 0 0 0 CFG=1
+M  V30 18 O 1.299 1.5 0 0
+M  V30 19 C 0 -0.75 0 0 CFG=1
+M  V30 20 C -1.3703 -0.1398 0 0
+M  V30 21 C -2.374 -1.2546 0 0
+M  V30 22 C -1.624 -2.5536 0 0 CFG=1
+M  V30 23 C -2.2341 -3.9239 0 0 CFG=1
+M  V30 24 C -3.7013 -4.2358 0 0
+M  V30 25 C -3.8581 -5.7276 0 0
+M  V30 26 C -2.4878 -6.3377 0 0 CFG=2
+M  V30 27 C -2.1759 -7.8049 0 0
+M  V30 28 C -0.7493 -8.2684 0 0
+M  V30 29 C -0.4374 -9.7356 0 0
+M  V30 30 C 0.989 -10.1992 0 0
+M  V30 31 C 1.3009 -11.6664 0 0
+M  V30 32 C 2.7275 -12.1299 0 0
+M  V30 33 C 3.0394 -13.5971 0 0
+M  V30 34 C 4.4659 -14.0607 0 0 CFG=1
+M  V30 35 O 5.5807 -13.057 0 0
+M  V30 36 C 4.7778 -15.5279 0 0
+M  V30 37 C 6.2044 -15.9914 0 0
+M  V30 38 C 6.6679 -17.418 0 0
+M  V30 39 C 8.1679 -17.418 0 0 CFG=2
+M  V30 40 C 9.0496 -18.6315 0 0
+M  V30 41 O 8.6314 -15.9914 0 0
+M  V30 42 C 7.4179 -15.1097 0 0
+M  V30 43 O 7.4179 -13.6097 0 0
+M  V30 44 O -1.4841 -5.223 0 0
+M  V30 45 O -0.1567 -2.2417 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 11 10
+M  V30 11 1 11 12 CFG=1
+M  V30 12 1 13 11
+M  V30 13 1 13 14 CFG=3
+M  V30 14 1 13 15
+M  V30 15 1 15 16
+M  V30 16 1 17 16
+M  V30 17 1 17 18 CFG=3
+M  V30 18 1 19 17
+M  V30 19 1 19 20
+M  V30 20 1 20 21
+M  V30 21 1 22 21
+M  V30 22 1 23 22
+M  V30 23 1 23 24
+M  V30 24 1 24 25
+M  V30 25 1 26 25
+M  V30 26 1 26 27 CFG=1
+M  V30 27 1 27 28
+M  V30 28 1 28 29
+M  V30 29 1 29 30
+M  V30 30 1 30 31
+M  V30 31 1 31 32
+M  V30 32 1 32 33
+M  V30 33 1 34 33
+M  V30 34 1 34 35 CFG=1
+M  V30 35 1 34 36
+M  V30 36 1 36 37
+M  V30 37 2 37 38
+M  V30 38 1 39 38
+M  V30 39 1 39 40 CFG=1
+M  V30 40 1 39 41
+M  V30 41 1 41 42
+M  V30 42 1 37 42
+M  V30 43 2 42 43
+M  V30 44 1 26 44
+M  V30 45 1 23 44 CFG=3
+M  V30 46 1 22 45 CFG=3
+M  V30 47 1 19 45 CFG=3
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(9 11 13 17 19 22 23 26 34 39)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0165354
+
+> <SMILES> 
+CCCCCCCCCC[C@H](O)[C@H](O)CC[C@@H](O)[C@H]1CC[C@@H]([C@H]2CC[C@H](CCCCCCC[C@@H](O)CC3=C[C@H](C)OC3=O)O2)O1
+
+> <DOI> 
+10.1055/S-1999-13961
+
+> <DOI> 
+10.1016/0968-0896(96)00114-9
+
+> <Unordered_taxonomy> 
+Eukaryota,Annona mucosa,Plantae,Archaeplastida,Magnoliopsida,Annonaceae,Annona,Tracheophyta,Annona emarginata,Streptophyta,Viridiplantae
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 45 47 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 19.4855 0 0 0
+M  V30 2 C 18.1865 -0.75 0 0
+M  V30 3 C 16.8874 0 0 0
+M  V30 4 C 15.5884 -0.75 0 0
+M  V30 5 C 14.2894 0 0 0
+M  V30 6 C 12.9903 -0.75 0 0
+M  V30 7 C 11.6913 0 0 0
+M  V30 8 C 10.3923 -0.75 0 0
+M  V30 9 C 9.0932 0 0 0
+M  V30 10 C 7.7942 -0.75 0 0
+M  V30 11 C 6.4951 0 0 0 CFG=1
+M  V30 12 O 6.4951 1.5 0 0
+M  V30 13 C 5.1961 -0.75 0 0 CFG=1
+M  V30 14 O 5.1961 -2.25 0 0
+M  V30 15 C 3.8971 0 0 0
+M  V30 16 C 2.598 -0.75 0 0
+M  V30 17 C 1.299 0 0 0 CFG=1
+M  V30 18 O 1.299 1.5 0 0
+M  V30 19 C 0 -0.75 0 0 CFG=1
+M  V30 20 C -1.3703 -0.1398 0 0
+M  V30 21 C -2.374 -1.2546 0 0
+M  V30 22 C -1.624 -2.5536 0 0 CFG=1
+M  V30 23 C -2.2341 -3.9239 0 0 CFG=2
+M  V30 24 C -3.7013 -4.2358 0 0
+M  V30 25 C -3.8581 -5.7276 0 0
+M  V30 26 C -2.4878 -6.3377 0 0 CFG=1
+M  V30 27 C -2.1759 -7.8049 0 0
+M  V30 28 C -0.7493 -8.2684 0 0
+M  V30 29 C -0.4374 -9.7356 0 0
+M  V30 30 C 0.989 -10.1992 0 0
+M  V30 31 C 1.3009 -11.6664 0 0
+M  V30 32 C 2.7275 -12.1299 0 0
+M  V30 33 C 3.0394 -13.5971 0 0
+M  V30 34 C 4.4659 -14.0607 0 0 CFG=2
+M  V30 35 O 5.5807 -13.057 0 0
+M  V30 36 C 4.7778 -15.5279 0 0
+M  V30 37 C 6.2044 -15.9914 0 0
+M  V30 38 C 6.6679 -17.418 0 0
+M  V30 39 C 8.1679 -17.418 0 0 CFG=2
+M  V30 40 C 9.0496 -18.6315 0 0
+M  V30 41 O 8.6314 -15.9914 0 0
+M  V30 42 C 7.4179 -15.1097 0 0
+M  V30 43 O 7.4179 -13.6097 0 0
+M  V30 44 O -1.4841 -5.223 0 0
+M  V30 45 O -0.1567 -2.2417 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 11 10
+M  V30 11 1 11 12 CFG=3
+M  V30 12 1 13 11
+M  V30 13 1 13 14 CFG=1
+M  V30 14 1 13 15
+M  V30 15 1 15 16
+M  V30 16 1 17 16
+M  V30 17 1 17 18 CFG=3
+M  V30 18 1 19 17
+M  V30 19 1 19 20
+M  V30 20 1 20 21
+M  V30 21 1 22 21
+M  V30 22 1 23 22
+M  V30 23 1 23 24
+M  V30 24 1 24 25
+M  V30 25 1 26 25
+M  V30 26 1 26 27 CFG=3
+M  V30 27 1 27 28
+M  V30 28 1 28 29
+M  V30 29 1 29 30
+M  V30 30 1 30 31
+M  V30 31 1 31 32
+M  V30 32 1 32 33
+M  V30 33 1 34 33
+M  V30 34 1 34 35 CFG=3
+M  V30 35 1 34 36
+M  V30 36 1 36 37
+M  V30 37 2 37 38
+M  V30 38 1 39 38
+M  V30 39 1 39 40 CFG=1
+M  V30 40 1 39 41
+M  V30 41 1 41 42
+M  V30 42 1 37 42
+M  V30 43 2 42 43
+M  V30 44 1 26 44
+M  V30 45 1 23 44 CFG=1
+M  V30 46 1 22 45 CFG=3
+M  V30 47 1 19 45 CFG=3
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(9 11 13 17 19 22 23 26 34 39)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0250576
+
+> <SMILES> 
+CCCCCCCCCC[C@@H](O)[C@@H](O)CC[C@@H](O)[C@H]1CC[C@@H]([C@@H]2CC[C@@H](CCCCCCC[C@H](O)CC3=C[C@H](C)OC3=O)O2)O1
+
+> <DOI> 
+10.1016/0968-0896(96)00114-9
+
+> <DOI> 
+10.1055/S-1999-13961
+
+> <Unordered_taxonomy> 
+Eukaryota,Annona mucosa,Plantae,Archaeplastida,Magnoliopsida,Annonaceae,Annona emarginata,Tracheophyta,Annona,Streptophyta,Viridiplantae
+
+$$$$

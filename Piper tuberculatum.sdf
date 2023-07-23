@@ -1,0 +1,4223 @@
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 21 23 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 7.7942 -0.75 0 0
+M  V30 2 C 6.4951 0 0 0
+M  V30 3 C 5.1961 -0.75 0 0
+M  V30 4 C 3.8971 0 0 0
+M  V30 5 C 2.598 -0.75 0 0
+M  V30 6 C 1.299 0 0 0
+M  V30 7 C 0 -0.75 0 0
+M  V30 8 C 0 -2.25 0 0
+M  V30 9 C -1.299 -3 0 0
+M  V30 10 C -2.598 -2.2499 0 0
+M  V30 11 C -2.598 -0.7499 0 0
+M  V30 12 C -1.299 0 0 0
+M  V30 13 O -4.0246 -0.2864 0 0
+M  V30 14 C -4.9063 -1.4999 0 0
+M  V30 15 O -4.0246 -2.7135 0 0
+M  V30 16 N 6.4951 1.5 0 0
+M  V30 17 C 7.7942 2.2499 0 0
+M  V30 18 C 7.7942 3.75 0 0
+M  V30 19 C 6.4951 4.5 0 0
+M  V30 20 C 5.1961 3.75 0 0
+M  V30 21 C 5.1961 2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 7 12
+M  V30 13 1 11 13
+M  V30 14 1 13 14
+M  V30 15 1 14 15
+M  V30 16 1 10 15
+M  V30 17 1 2 16
+M  V30 18 1 16 17
+M  V30 19 1 17 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 23 1 16 21
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0014461
+
+> <SMILES> 
+O=C(/C=C/C=C/c1ccc2c(c1)OCO2)N1CCCCC1
+
+> <DOI> 
+10.1016/S0031-9422(00)88579-9
+
+> <DOI> 
+10.17660/ACTAHORTIC.1996.426.21
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.1248/CPB.53.832
+
+> <DOI> 
+10.1016/S0031-9422(00)86838-7
+
+> <DOI> 
+10.1016/J.FCT.2008.06.014
+
+> <DOI> 
+10.1002/JBT.20251
+
+> <DOI> 
+10.1016/0031-9422(92)83736-I
+
+> <DOI> 
+10.3390/MOLECULES15042398
+
+> <DOI> 
+10.1002/JPS.2600630733
+
+> <DOI> 
+10.1021/NP900656G
+
+> <DOI> 
+10.1002/JPS.2600531138
+
+> <DOI> 
+10.1590/S0103-50532010001000003
+
+> <DOI> 
+10.1016/S0031-9422(98)00208-8
+
+> <DOI> 
+10.1016/0031-9422(88)80168-7
+
+> <DOI> 
+10.1055/S-2002-34410
+
+> <DOI> 
+10.3390/MOLECULES14093833
+
+> <DOI> 
+10.1016/S0021-9673(01)89200-1
+
+> <DOI> 
+10.1016/J.TET.2011.01.015
+
+> <DOI> 
+10.1248/BPB.31.1063
+
+> <DOI> 
+10.1007/S13277-013-1433-4
+
+> <DOI> 
+10.1039/P19740002195
+
+> <DOI> 
+10.1038/JA.2011.27
+
+> <DOI> 
+10.1016/S0031-9422(01)00364-8
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1021/ED070P598
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <DOI> 
+10.1021/NP030475E.S001
+
+> <DOI> 
+10.1021/JF60178A026
+
+> <DOI> 
+10.1016/J.INTIMP.2004.08.005
+
+> <DOI> 
+10.1021/JF00103A029
+
+> <DOI> 
+10.1271/BBB.57.1329
+
+> <DOI> 
+10.1055/S-0035-1546106
+
+> <DOI> 
+10.1007/S11010-005-3702-Z
+
+> <DOI> 
+10.1080/14786410902757998
+
+> <DOI> 
+10.1016/J.BMCL.2012.09.056
+
+> <DOI> 
+10.1016/J.FITOTE.2012.12.001
+
+> <DOI> 
+10.1002/CHIN.200447158
+
+> <DOI> 
+10.1002/BIO.1209
+
+> <DOI> 
+10.1016/J.TETLET.2009.03.147
+
+> <DOI> 
+10.1080/10286020903565226
+
+> <DOI> 
+10.1016/J.EJPHAR.2015.01.038
+
+> <DOI> 
+10.3109/13880209.2014.991835
+
+> <DOI> 
+10.1016/S0021-9673(01)95038-1
+
+> <DOI> 
+10.1016/S0968-0896(02)00130-X
+
+> <DOI> 
+10.1002/CHIN.200352219
+
+> <DOI> 
+10.3987/COM-02-9518
+
+> <DOI> 
+10.1177/1934578X0600100101
+
+> <DOI> 
+10.1016/0031-9422(90)85102-L
+
+> <DOI> 
+10.1080/00021369.1981.10864708
+
+> <DOI> 
+10.1080/10286020.2010.546789
+
+> <DOI> 
+10.1016/S0021-9673(01)83545-7
+
+> <DOI> 
+10.1016/J.CHROMA.2004.03.056
+
+> <DOI> 
+10.1248/CPB.45.685
+
+> <DOI> 
+10.1055/S-2006-957982
+
+> <DOI> 
+10.1055/S-2001-11505
+
+> <DOI> 
+10.1248/CPB.36.2452
+
+> <DOI> 
+10.1002/CHIN.200340213
+
+> <DOI> 
+10.1016/0031-9422(74)80272-4
+
+> <DOI> 
+10.1016/S0031-9422(00)94460-1
+
+> <DOI> 
+10.1080/14786410310001608028
+
+> <DOI> 
+10.1016/J.EJMECH.2010.04.033
+
+> <DOI> 
+10.1055/S-2007-969445
+
+> <DOI> 
+10.1055/S-0028-1099446
+
+> <DOI> 
+10.1021/IE0107845
+
+> <DOI> 
+10.1076/PHBI.39.3.236.5926
+
+> <DOI> 
+10.1271/BBB1961.45.1257
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1016/0031-9422(88)80249-8
+
+> <DOI> 
+10.1016/S0031-9422(97)00202-1
+
+> <DOI> 
+10.1016/J.PHYMED.2007.06.011
+
+> <DOI> 
+10.1021/IE010359B
+
+> <DOI> 
+10.1002/CHIN.200552178
+
+> <DOI> 
+10.1055/S-1999-14031
+
+> <DOI> 
+10.1248/CPB.31.3562
+
+> <DOI> 
+10.1016/J.BMC.2010.03.013
+
+> <DOI> 
+10.1007/BF02856625
+
+> <DOI> 
+10.1002/CHIN.199246266
+
+> <Unordered_taxonomy> 
+Piper suipigua,Piper longum,Centaurea aegyptiaca,Magnoliopsida,Piper boehmeriifolium,Piper capense,Fungi,Piper tuberculatum,Eukaryota,Piper nigrum,Capsicum annuum,Piper betle,Aglaia,Solanaceae,Periconia,Tracheophyta,Streptophyta,Viridiplantae,Piper sylvaticum,Ascomycota,Ulocladium,Alternaria sect. Ulocladium,Plantae,Alternaria,Piperaceae,Periconiaceae,Meliaceae,Aglaia perviridis,Dothideomycetes,Piper retrofractum,Piper pedicellatum,Piper thomsonii,Piper trichostachyon,Piper attenuatum,Piper swartzianum,Piper peepuloides,Archaeplastida,Asteraceae,Pleosporaceae,Piper khasianum,Piper,Piper chaba,Capsicum,Piper guineense,Macropiper,Piper cubeba,Centaurea
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 16 15 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 11.2583 0 0 0
+M  V30 2 C 10.3923 -0.5 0 0
+M  V30 3 C 9.5262 0 0 0
+M  V30 4 C 8.6602 -0.5 0 0
+M  V30 5 C 7.7942 0 0 0
+M  V30 6 C 6.9282 -0.5 0 0
+M  V30 7 C 6.0621 0 0 0
+M  V30 8 C 5.1961 -0.5 0 0
+M  V30 9 C 4.3301 0 0 0
+M  V30 10 C 3.4641 -0.5 0 0
+M  V30 11 O 3.4641 -1.5 0 0
+M  V30 12 N 2.598 0 0 0
+M  V30 13 C 1.732 -0.5 0 0
+M  V30 14 C 0.866 0 0 0
+M  V30 15 C 0.866 1 0 0
+M  V30 16 C 0 -0.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 2 10 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 14 16
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0152762
+
+> <SMILES> 
+CCCCC/C=C/C=C/C(O)=NCC(C)C
+
+> <DOI> 
+10.1016/S0031-9422(00)88579-9
+
+> <DOI> 
+10.1016/0031-9422(92)83738-K
+
+> <DOI> 
+10.1021/JF011457A
+
+> <DOI> 
+10.1016/S0031-9422(97)00124-6
+
+> <DOI> 
+10.1016/S0031-9422(00)82632-1
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2004.12.028
+
+> <DOI> 
+10.1016/J.JEP.2004.01.022
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.3390/MOLECULES15042398
+
+> <DOI> 
+10.1002/JPS.2600630733
+
+> <DOI> 
+10.1055/S-2006-941504
+
+> <DOI> 
+10.1016/S0031-9422(01)00347-8
+
+> <DOI> 
+10.1016/0031-9422(83)80032-6
+
+> <DOI> 
+10.1016/S0031-9422(00)97985-8
+
+> <DOI> 
+10.1016/S0031-9422(98)00208-8
+
+> <DOI> 
+10.1039/C4FO00435C
+
+> <DOI> 
+10.1016/S0031-9422(00)82418-8
+
+> <DOI> 
+10.1139/V96-046
+
+> <DOI> 
+10.1055/S-2002-34410
+
+> <DOI> 
+10.1055/S-2006-959404
+
+> <DOI> 
+10.1021/JF900642X
+
+> <DOI> 
+10.1021/NP200557E
+
+> <DOI> 
+10.1039/C3AN00016H
+
+> <DOI> 
+10.1016/J.TET.2011.01.015
+
+> <DOI> 
+10.1055/S-2006-960985
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1055/S-2006-962041
+
+> <DOI> 
+10.1007/S11418-007-0159-2
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <DOI> 
+10.1021/NP030475E.S001
+
+> <DOI> 
+10.1021/JF00103A029
+
+> <DOI> 
+10.1021/NP50041A042
+
+> <DOI> 
+10.3390/MOLECULES19056428
+
+> <DOI> 
+10.1271/BBB.57.1329
+
+> <DOI> 
+10.1080/14786410902757998
+
+> <DOI> 
+10.1002/JLAC.198319830712
+
+> <DOI> 
+10.1002/CHIN.200447158
+
+> <DOI> 
+10.1016/0031-9422(95)00333-3
+
+> <DOI> 
+10.1248/CPB.53.121
+
+> <DOI> 
+10.1007/BF01934791
+
+> <DOI> 
+10.1248/CPB.52.1349
+
+> <DOI> 
+10.1002/JHRC.1240090712
+
+> <DOI> 
+10.1016/S0968-0896(02)00130-X
+
+> <DOI> 
+10.1002/CHIN.200352219
+
+> <DOI> 
+10.1055/S-2006-960180
+
+> <DOI> 
+10.1016/0031-9422(95)00852-7
+
+> <DOI> 
+10.1248/CPB.54.149
+
+> <DOI> 
+10.1021/NP50046A035
+
+> <DOI> 
+10.1271/BBB.58.936
+
+> <DOI> 
+10.3987/COM-02-9518
+
+> <DOI> 
+10.1177/1934578X0600100101
+
+> <DOI> 
+10.1021/NP100606U
+
+> <DOI> 
+10.1080/00021369.1981.10864708
+
+> <DOI> 
+10.5012/BKCS.2010.31.04.921
+
+> <DOI> 
+10.1002/CHIN.200517223
+
+> <DOI> 
+10.1016/0031-9422(81)83098-1
+
+> <DOI> 
+10.1016/J.CHROMA.2004.03.056
+
+> <DOI> 
+10.1021/JF071963L
+
+> <DOI> 
+10.1055/S-2006-957982
+
+> <DOI> 
+10.1016/J.BMCL.2008.01.101
+
+> <DOI> 
+10.1002/PS.1643
+
+> <DOI> 
+10.1055/S-2006-961017
+
+> <DOI> 
+10.1016/S0040-4020(01)86856-3
+
+> <DOI> 
+10.1002/CHIN.200340213
+
+> <DOI> 
+10.1016/0041-0101(92)90048-A
+
+> <DOI> 
+10.1093/JAOAC/83.6.1484
+
+> <DOI> 
+10.1016/S0367-326X(00)00271-9
+
+> <DOI> 
+10.1055/S-2006-960460
+
+> <DOI> 
+10.1248/CPB.29.564
+
+> <DOI> 
+10.1055/S-2006-957913
+
+> <DOI> 
+10.1076/PHBI.39.3.236.5926
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1016/J.BMCL.2008.07.045
+
+> <DOI> 
+10.1002/PCA.716
+
+> <DOI> 
+10.1007/BF01952540
+
+> <DOI> 
+10.1016/S0305-1978(00)00011-9
+
+> <DOI> 
+10.1016/S0031-9422(00)88190-X
+
+> <DOI> 
+10.1016/S0167-4501(06)80006-3
+
+> <DOI> 
+10.1055/S-2003-38877
+
+> <DOI> 
+10.1016/S0031-9422(00)80494-X
+
+> <Unordered_taxonomy> 
+,Piper sarmentosum,Zanthoxylum gilletii,Stauranthus perforatus,Stauranthus,Magnoliopsida,Achillea asiatica,Achillea falcata,Aristolochiaceae,Piper pedicellosum,Coleonema pulchellum,Eukaryota,Piper lolot,Aspilia platyphylla,Piper nigrum,Achillea millefolium,Liliopsida,Cissampelos,Tracheophyta,Streptophyta,Achillea ptarmica,Piper sylvaticum,Achillea spinulifolia,Matricaria pubescens,Artemisia dracunculus,Equisetopsida,Wedelia laevissima,Achillea formosa,Achillea magnifica,Achillea glaberrima,Piper pedicellatum,Ctenium aromaticum,Piper glaberrimum,Matricaria,Achillea ptarmica subsp. ptarmica,Piper swartzianum,Asarum,Archaeplastida,Artemisia dubia var. asiatica,Piper nigrum var. nigrum,Piper chaba,Zanthoxylum,Coleonema,Asarum heterotropoides,Artemisia dubia,Pilocarpus,Piper suipigua,Rutaceae,Achillea formosa subsp. formosa,Poaceae,Piper longum,Anacyclus pyrethrum,Menispermaceae,Piper kadsura,Zanthoxylum zanthoxyloides,Zanthoxylum caribaeum subsp. caribaeum,Piper tuberculatum,Anacyclus,Pilocarpus trachylophus,Aspilia,Piper mullesua,Annonaceae,Rhamnaceae,Viridiplantae,Isolona maitlandii,Tetradium,Leucocyclus formosus,Plantae,Piperaceae,Isolona,Artemisia,Piper retrofractum,Ctenium,Leucocyclus,Isolona congolana,Tetradium daniellii,Zanthoxylum caribaeum,Piper formosum,Asteraceae,Achillea,Cissampelos glaberrima,Piper,Piper guineense,Wedelia,Achillea macrophylla
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 21 23 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 7.7942 -0.75 0 0
+M  V30 2 C 6.4951 0 0 0
+M  V30 3 C 5.1961 -0.75 0 0
+M  V30 4 C 3.8971 0 0 0
+M  V30 5 C 2.598 -0.75 0 0
+M  V30 6 C 1.299 0 0 0
+M  V30 7 C 0 -0.75 0 0
+M  V30 8 C 0 -2.25 0 0
+M  V30 9 C -1.299 -3 0 0
+M  V30 10 C -2.598 -2.2499 0 0
+M  V30 11 C -2.598 -0.7499 0 0
+M  V30 12 C -1.299 0 0 0
+M  V30 13 O -4.0246 -0.2864 0 0
+M  V30 14 C -4.9063 -1.4999 0 0
+M  V30 15 O -4.0246 -2.7135 0 0
+M  V30 16 N 6.4951 1.5 0 0
+M  V30 17 C 7.7942 2.2499 0 0
+M  V30 18 C 7.7942 3.75 0 0
+M  V30 19 C 6.4951 4.5 0 0
+M  V30 20 C 5.1961 3.75 0 0
+M  V30 21 C 5.1961 2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 7 12
+M  V30 13 1 11 13
+M  V30 14 1 13 14
+M  V30 15 1 14 15
+M  V30 16 1 10 15
+M  V30 17 1 2 16
+M  V30 18 1 16 17
+M  V30 19 1 17 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 23 1 16 21
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0271968
+
+> <SMILES> 
+O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1
+
+> <DOI> 
+10.1055/S-2001-11505
+
+> <DOI> 
+10.1248/CPB.31.3562
+
+> <DOI> 
+10.1248/CPB.53.832
+
+> <DOI> 
+10.1021/NP900656G
+
+> <DOI> 
+10.1016/S0031-9422(98)00208-8
+
+> <DOI> 
+10.1016/0031-9422(92)83736-I
+
+> <DOI> 
+10.1080/00021369.1981.10864708
+
+> <DOI> 
+10.1055/S-2006-957982
+
+> <DOI> 
+10.1271/BBB1961.45.1257
+
+> <DOI> 
+10.1016/J.INTIMP.2004.08.005
+
+> <DOI> 
+10.1055/S-1999-14031
+
+> <DOI> 
+10.1002/JBT.20251
+
+> <DOI> 
+10.1016/S0968-0896(02)00130-X
+
+> <DOI> 
+10.1021/JF60178A026
+
+> <DOI> 
+10.1590/S0103-50532010001000003
+
+> <DOI> 
+10.1248/CPB.45.685
+
+> <DOI> 
+10.1039/P19740002195
+
+> <DOI> 
+10.1080/14786410902757998
+
+> <DOI> 
+10.1016/J.EJMECH.2010.04.033
+
+> <DOI> 
+10.3390/MOLECULES14093833
+
+> <DOI> 
+10.1271/BBB.57.1329
+
+> <DOI> 
+10.1055/S-0028-1099446
+
+> <DOI> 
+10.1016/S0031-9422(97)00202-1
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <DOI> 
+10.1016/J.FCT.2008.06.014
+
+> <DOI> 
+10.1016/J.EJPHAR.2015.01.038
+
+> <DOI> 
+10.1007/S11010-005-3702-Z
+
+> <DOI> 
+10.1080/10286020903565226
+
+> <DOI> 
+10.1016/J.TETLET.2009.03.147
+
+> <DOI> 
+10.1016/J.BMC.2010.03.013
+
+> <DOI> 
+10.3390/MOLECULES15042398
+
+> <DOI> 
+10.1016/J.TET.2011.01.015
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1016/S0031-9422(00)88579-9
+
+> <DOI> 
+10.1002/BIO.1209
+
+> <DOI> 
+10.1177/1934578X0600100101
+
+> <DOI> 
+10.1007/S13277-013-1433-4
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1080/10286020.2010.546789
+
+> <DOI> 
+10.1002/JPS.2600531138
+
+> <DOI> 
+10.1038/JA.2011.27
+
+> <Unordered_taxonomy> 
+Piper suipigua,Piper longum,Magnoliopsida,Piper capense,Fungi,Piper tuberculatum,Eukaryota,Piper nigrum,Piper betle,Aglaia,Periconia,Tracheophyta,Streptophyta,Viridiplantae,Ascomycota,Plantae,Piperaceae,Periconiaceae,Meliaceae,Aglaia perviridis,Dothideomycetes,Piper retrofractum,Piper thomsonii,Piper trichostachyon,Piper swartzianum,Piper peepuloides,Archaeplastida,Piper,Piper chaba,Piper guineense,Piper cubeba
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 16 15 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 11.2583 0 0 0
+M  V30 2 C 10.3923 -0.5 0 0
+M  V30 3 C 9.5262 0 0 0
+M  V30 4 C 8.6602 -0.5 0 0
+M  V30 5 C 7.7942 0 0 0
+M  V30 6 C 6.9282 -0.5 0 0
+M  V30 7 C 6.0621 0 0 0
+M  V30 8 C 5.1961 -0.5 0 0
+M  V30 9 C 4.3301 0 0 0
+M  V30 10 C 3.4641 -0.5 0 0
+M  V30 11 O 3.4641 -1.5 0 0
+M  V30 12 N 2.598 0 0 0
+M  V30 13 C 1.732 -0.5 0 0
+M  V30 14 C 0.866 0 0 0
+M  V30 15 C 0.866 1 0 0
+M  V30 16 C 0 -0.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 2 10 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 14 16
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0009070
+
+> <SMILES> 
+CCCCCC=CC=CC(O)=NCC(C)C
+
+> <DOI> 
+10.1055/S-2006-941504
+
+> <DOI> 
+10.1016/S0031-9422(98)00208-8
+
+> <DOI> 
+10.1016/J.BMCL.2008.01.101
+
+> <DOI> 
+10.1016/S0031-9422(00)80494-X
+
+> <DOI> 
+10.1080/00021369.1981.10864708
+
+> <DOI> 
+10.1055/S-2006-957982
+
+> <DOI> 
+10.1016/S0031-9422(00)97985-8
+
+> <DOI> 
+10.1248/CPB.53.121
+
+> <DOI> 
+10.1055/S-2006-960460
+
+> <DOI> 
+10.1016/S0031-9422(97)00124-6
+
+> <DOI> 
+10.1016/S0968-0896(02)00130-X
+
+> <DOI> 
+10.1002/JLAC.198319830712
+
+> <DOI> 
+10.1007/BF01934791
+
+> <DOI> 
+10.1080/14786410902757998
+
+> <DOI> 
+10.1021/NP200557E
+
+> <DOI> 
+10.1139/V96-046
+
+> <DOI> 
+10.1248/CPB.29.564
+
+> <DOI> 
+10.1016/0031-9422(83)80032-6
+
+> <DOI> 
+10.1271/BBB.57.1329
+
+> <DOI> 
+10.1016/S0367-326X(00)00271-9
+
+> <DOI> 
+10.1016/J.BMCL.2008.07.045
+
+> <DOI> 
+10.1002/JPS.2600630733
+
+> <DOI> 
+10.5012/BKCS.2010.31.04.921
+
+> <DOI> 
+10.1093/JAOAC/83.6.1484
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <DOI> 
+10.1021/NP100606U
+
+> <DOI> 
+10.1016/0031-9422(95)00333-3
+
+> <DOI> 
+10.1016/S0040-4020(01)86856-3
+
+> <DOI> 
+10.1055/S-2003-38877
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1021/JF011457A
+
+> <DOI> 
+10.1016/S0031-9422(00)82418-8
+
+> <DOI> 
+10.1016/S0031-9422(00)82632-1
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2004.12.028
+
+> <DOI> 
+10.3390/MOLECULES15042398
+
+> <DOI> 
+10.1016/0031-9422(92)83738-K
+
+> <DOI> 
+10.1016/J.TET.2011.01.015
+
+> <DOI> 
+10.1248/CPB.54.149
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1016/S0031-9422(00)88579-9
+
+> <DOI> 
+10.1177/1934578X0600100101
+
+> <DOI> 
+10.1021/JF071963L
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <Unordered_taxonomy> 
+Piper sarmentosum,Stauranthus perforatus,Stauranthus,Magnoliopsida,Achillea falcata,Aristolochiaceae,Piper pedicellosum,Coleonema pulchellum,Eukaryota,Piper lolot,Aspilia platyphylla,Piper nigrum,Achillea millefolium,Tracheophyta,Streptophyta,Achillea spinulifolia,Matricaria pubescens,Piper sylvaticum,Equisetopsida,Matricaria,Piper swartzianum,Asarum,Archaeplastida,Piper chaba,Zanthoxylum,Coleonema,Asarum heterotropoides,Piper suipigua,Rutaceae,Piper longum,Piper kadsura,Zanthoxylum zanthoxyloides,Zanthoxylum caribaeum subsp. caribaeum,Piper tuberculatum,Aspilia,Piper mullesua,Annonaceae,Rhamnaceae,Viridiplantae,Isolona maitlandii,Plantae,Piperaceae,Isolona,Piper retrofractum,Isolona congolana,Zanthoxylum caribaeum,Asteraceae,Achillea,Piper,Achillea macrophylla
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 23 24 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 10.3923 -0.75 0 0
+M  V30 2 O 9.0932 0 0 0
+M  V30 3 C 7.7942 -0.75 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 C 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 C 2.598 -0.75 0 0
+M  V30 8 C 1.299 0 0 0
+M  V30 9 O 1.299 1.5 0 0
+M  V30 10 N 0 -0.75 0 0
+M  V30 11 C -1.299 0 0 0
+M  V30 12 C -2.598 -0.7499 0 0
+M  V30 13 C -2.598 -2.2499 0 0
+M  V30 14 C -1.299 -2.9999 0 0
+M  V30 15 C 0 -2.2499 0 0
+M  V30 16 O 1.299 -3 0 0
+M  V30 17 C 5.1961 -2.2499 0 0
+M  V30 18 C 6.4951 -3 0 0
+M  V30 19 O 6.4951 -4.5 0 0
+M  V30 20 C 7.7942 -5.25 0 0
+M  V30 21 C 7.7942 -2.2499 0 0
+M  V30 22 O 9.0932 -2.9999 0 0
+M  V30 23 C 10.3923 -2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 8 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 14 15
+M  V30 15 1 10 15
+M  V30 16 2 15 16
+M  V30 17 2 5 17
+M  V30 18 1 17 18
+M  V30 19 1 18 19
+M  V30 20 1 19 20
+M  V30 21 2 18 21
+M  V30 22 1 3 21
+M  V30 23 1 21 22
+M  V30 24 1 22 23
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0074614
+
+> <SMILES> 
+COc1cc(/C=C/C(=O)N2CCC=CC2=O)cc(OC)c1OC
+
+> <DOI> 
+10.1016/J.BCP.2015.03.014
+
+> <DOI> 
+10.1016/S0031-9422(00)80674-3
+
+> <DOI> 
+10.1055/S-0035-1546106
+
+> <DOI> 
+10.1016/S0031-9422(96)00585-7
+
+> <DOI> 
+10.1016/J.PHYMED.2006.12.015
+
+> <DOI> 
+10.1002/JAT.1261
+
+> <DOI> 
+10.1007/S11418-007-0159-2
+
+> <DOI> 
+10.1016/J.MRGENTOX.2008.02.001
+
+> <DOI> 
+10.1007/BF01952540
+
+> <DOI> 
+10.1021/NP50072A030
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1016/0040-4020(84)85116-9
+
+> <DOI> 
+10.1016/J.TET.2011.01.015
+
+> <DOI> 
+10.1055/S-2005-864155
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1016/0031-9422(81)85125-4
+
+> <DOI> 
+10.1016/J.PHYMED.2007.06.011
+
+> <DOI> 
+10.1016/S0031-9422(99)00446-X
+
+> <DOI> 
+10.1002/PCA.716
+
+> <DOI> 
+10.1021/NP960379W
+
+> <DOI> 
+10.1248/CPB.59.1178
+
+> <DOI> 
+10.1016/S0031-9422(01)00364-8
+
+> <DOI> 
+10.1016/J.CHROMA.2004.03.056
+
+> <Unordered_taxonomy> 
+Piper sarmentosum,Piper arborescens,Zanthoxylum gilletii,Rutaceae,Piper cenocladum,Piper longum,Magnoliopsida,Piper tuberculatum,Eukaryota,Piper puberulum,Tracheophyta,Viridiplantae,Streptophyta,Piper sylvaticum,Plantae,Piper macropiper,Equisetopsida,Piperaceae,Piper retrofractum,Piper swartzianum,Archaeplastida,Piper,Piper chaba,Macropiper,Zanthoxylum
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 23 24 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 10.3923 -0.75 0 0
+M  V30 2 O 9.0932 0 0 0
+M  V30 3 C 7.7942 -0.75 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 C 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 C 2.598 -0.75 0 0
+M  V30 8 C 1.299 0 0 0
+M  V30 9 O 1.299 1.5 0 0
+M  V30 10 N 0 -0.75 0 0
+M  V30 11 C -1.299 0 0 0
+M  V30 12 C -2.598 -0.7499 0 0
+M  V30 13 C -2.598 -2.2499 0 0
+M  V30 14 C -1.299 -2.9999 0 0
+M  V30 15 C 0 -2.2499 0 0
+M  V30 16 O 1.299 -3 0 0
+M  V30 17 C 5.1961 -2.2499 0 0
+M  V30 18 C 6.4951 -3 0 0
+M  V30 19 O 6.4951 -4.5 0 0
+M  V30 20 C 7.7942 -5.25 0 0
+M  V30 21 C 7.7942 -2.2499 0 0
+M  V30 22 O 9.0932 -2.9999 0 0
+M  V30 23 C 10.3923 -2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 8 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 14 15
+M  V30 15 1 10 15
+M  V30 16 2 15 16
+M  V30 17 2 5 17
+M  V30 18 1 17 18
+M  V30 19 1 18 19
+M  V30 20 1 19 20
+M  V30 21 2 18 21
+M  V30 22 1 3 21
+M  V30 23 1 21 22
+M  V30 24 1 22 23
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0186771
+
+> <SMILES> 
+COc1cc(C=CC(=O)N2CCC=CC2=O)cc(OC)c1OC
+
+> <DOI> 
+10.1016/S0031-9422(99)00446-X
+
+> <DOI> 
+10.1002/JAT.1261
+
+> <DOI> 
+10.1016/0031-9422(81)85125-4
+
+> <DOI> 
+10.1055/S-2005-864155
+
+> <DOI> 
+10.1016/S0031-9422(00)80674-3
+
+> <DOI> 
+10.1016/J.MRGENTOX.2008.02.001
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1021/NP960379W
+
+> <DOI> 
+10.1016/J.TET.2011.01.015
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1248/CPB.59.1178
+
+> <DOI> 
+10.1016/0040-4020(84)85116-9
+
+> <Unordered_taxonomy> 
+Piper sarmentosum,Piper arborescens,Plantae,Piper macropiper,Piperaceae,Piper cenocladum,Piper longum,Magnoliopsida,Piper retrofractum,Piper tuberculatum,Eukaryota,Piper swartzianum,Archaeplastida,Piper,Piper chaba,Tracheophyta,Viridiplantae,Streptophyta,Piper sylvaticum
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 21 24 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.732 -0.5 0 0
+M  V30 2 O 0.866 0 0 0
+M  V30 3 C 0 -0.5 0 0
+M  V30 4 C 0 -1.5 0 0
+M  V30 5 C -0.8691 -2.0566 0 0
+M  V30 6 C -1.6782 -1.4689 0 0
+M  V30 7 C -2.4872 -2.0566 0 0
+M  V30 8 C -3.4007 -1.6499 0 0
+M  V30 9 C -3.5052 -0.6554 0 0
+M  V30 10 C -4.4188 -0.2487 0 0
+M  V30 11 C -4.5233 0.7458 0 0
+M  V30 12 C -3.7143 1.3336 0 0
+M  V30 13 C -2.8008 0.9268 0 0
+M  V30 14 C -2.6962 -0.0676 0 0
+M  V30 15 C -1.7827 -0.4743 0 0
+M  V30 16 C -0.866 0 0 0
+M  V30 17 O -0.843 0.9997 0 0
+M  V30 18 C -1.6972 1.5195 0 0
+M  V30 19 N -2.1782 -3.0077 0 0
+M  V30 20 C -1.1782 -3.0077 0 0
+M  V30 21 O -0.5904 -3.8167 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 2 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 2 10 11
+M  V30 11 1 11 12
+M  V30 12 2 12 13
+M  V30 13 1 13 14
+M  V30 14 1 9 14
+M  V30 15 2 14 15
+M  V30 16 1 6 15
+M  V30 17 1 15 16
+M  V30 18 2 3 16
+M  V30 19 1 16 17
+M  V30 20 1 17 18
+M  V30 21 1 7 19
+M  V30 22 2 19 20
+M  V30 23 1 5 20
+M  V30 24 1 20 21
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0198242
+
+> <SMILES> 
+COc1cc2c3c(cc4ccccc4c3c1OC)N=C2O
+
+> <DOI> 
+10.1002/JCCS.199300045
+
+> <DOI> 
+10.1016/S0305-1978(01)00139-9
+
+> <DOI> 
+10.1016/J.BMC.2006.10.034
+
+> <DOI> 
+10.1016/S0305-1978(98)00083-0
+
+> <DOI> 
+10.2174/157340711798375822
+
+> <DOI> 
+10.1016/S0944-7113(96)80073-0
+
+> <DOI> 
+10.1248/CPB.48.357
+
+> <DOI> 
+10.3987/COM-95-7370
+
+> <DOI> 
+10.1248/CPB.48.1006
+
+> <DOI> 
+10.1007/S10600-010-9605-6
+
+> <DOI> 
+10.1021/NP990004L
+
+> <DOI> 
+10.1248/CPB.54.1040
+
+> <DOI> 
+10.1055/S-2005-864155
+
+> <DOI> 
+10.1016/S0031-9422(96)00502-X
+
+> <DOI> 
+10.1016/S0031-9422(00)89394-2
+
+> <DOI> 
+10.1055/S-2004-818972
+
+> <DOI> 
+10.1021/NP000063V
+
+> <DOI> 
+10.1248/CPB.47.571
+
+> <DOI> 
+10.1248/CPB.39.1310
+
+> <DOI> 
+10.1007/978-1-4615-8819-1_17
+
+> <DOI> 
+10.1002/HLCA.200590068
+
+> <DOI> 
+10.1248/BPB.23.1216
+
+> <DOI> 
+10.1021/NP50068A006
+
+> <DOI> 
+10.1016/0031-9422(92)80493-X
+
+> <DOI> 
+10.1002/JCCS.200000172
+
+> <DOI> 
+10.1055/S-2006-961554
+
+> <DOI> 
+10.1055/S-2006-957777
+
+> <DOI> 
+10.1016/0031-9422(88)80226-7
+
+> <DOI> 
+10.1021/NP800041T
+
+> <DOI> 
+10.1021/NP0401260
+
+> <DOI> 
+10.1016/S0305-1978(00)00035-1
+
+> <DOI> 
+10.1248/CPB.57.1227
+
+> <DOI> 
+10.1021/NP50024A001
+
+> <Unordered_taxonomy> 
+Goniothalamus griffithii,Piper arborescens,Magnoliopsida,Siparunaceae,Aristolochiaceae,Stephania,Eukaryota,Aristolochia constricta,Fissistigma,Fissistigma balansae,Schefferomitra subaequalis,Aristolochia westlandii,Tracheophyta,Streptophyta,Aristolochia onoei,Fissistigma bracteolatum,Aristolochia heterophylla,Saururus cernuus,Equisetopsida,Schefferomitra,Saururaceae,Piper swartzianum,Archaeplastida,Aristolochia manshuriensis,Uvaria microcarpa,Aristolochia debilis,Aristolochia manchuriensis,Saururus chinensis,Goniothalamus velutinus,Aristolochia didyma,Aristolochia kaempferi,Piper sanctum,Piper longum,Menispermaceae,Uvaria hamiltonii,Piper tuberculatum,Goniothalamus,Annonaceae,Aristolochia baetica,Stephania cephalantha,Viridiplantae,Glossocalyx brevipes,Houttuynia,Aristolochia liukiuensis,Goniothalamus amuyon,Saururus,Plantae,Piper macropiper,Piperaceae,Aristolochia argentina,Fissistigma glaucescens,Uvaria,Fissistigma oldhamii,Aristolochia,Piper argyrophyllum,Houttuynia cordata,Aristolochia cucurbitifolia,Glossocalyx,Piper,Uvaria littoralis
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 20 22 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 7.7942 -0.75 0 0
+M  V30 2 C 6.4951 0 0 0
+M  V30 3 C 5.1961 -0.75 0 0
+M  V30 4 C 3.8971 0 0 0
+M  V30 5 C 2.598 -0.75 0 0
+M  V30 6 C 1.299 0 0 0
+M  V30 7 C 0 -0.75 0 0
+M  V30 8 C 0 -2.25 0 0
+M  V30 9 C -1.299 -3 0 0
+M  V30 10 C -2.598 -2.2499 0 0
+M  V30 11 C -2.598 -0.7499 0 0
+M  V30 12 C -1.299 0 0 0
+M  V30 13 O -4.0246 -0.2864 0 0
+M  V30 14 C -4.9063 -1.4999 0 0
+M  V30 15 O -4.0246 -2.7135 0 0
+M  V30 16 N 6.4951 1.5 0 0
+M  V30 17 C 7.7087 2.3816 0 0
+M  V30 18 C 7.2451 3.8082 0 0
+M  V30 19 C 5.7451 3.8082 0 0
+M  V30 20 C 5.2816 2.3816 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 7 12
+M  V30 13 1 11 13
+M  V30 14 1 13 14
+M  V30 15 1 14 15
+M  V30 16 1 10 15
+M  V30 17 1 2 16
+M  V30 18 1 16 17
+M  V30 19 1 17 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 16 20
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0118001
+
+> <SMILES> 
+O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCC1
+
+> <DOI> 
+10.1016/S0040-4039(01)88862-6
+
+> <DOI> 
+10.1177/1934578X0600100101
+
+> <DOI> 
+10.1080/00021369.1981.10864708
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1021/NP900656G
+
+> <DOI> 
+10.1039/P19740002195
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1016/S0968-0896(02)00130-X
+
+> <DOI> 
+10.1016/J.TET.2011.01.015
+
+> <DOI> 
+10.1271/BBB1961.45.1257
+
+> <DOI> 
+10.1248/CPB.45.685
+
+> <Unordered_taxonomy> 
+Piper arboreum,Plantae,Piperaceae,Magnoliopsida,Piper tuberculatum,Eukaryota,Piper trichostachyon,Piper nigrum,Piper swartzianum,Archaeplastida,Piper,Piper chaba,Tracheophyta,Piper guineense,Streptophyta,Viridiplantae
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 21 23 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 7.7942 -0.75 0 0
+M  V30 2 C 6.4951 0 0 0
+M  V30 3 C 5.1961 -0.75 0 0
+M  V30 4 C 3.8971 0 0 0
+M  V30 5 C 2.598 -0.75 0 0
+M  V30 6 C 1.299 0 0 0
+M  V30 7 C 0 -0.75 0 0
+M  V30 8 C 0 -2.25 0 0
+M  V30 9 C -1.299 -3 0 0
+M  V30 10 C -2.598 -2.2499 0 0
+M  V30 11 C -2.598 -0.7499 0 0
+M  V30 12 C -1.299 0 0 0
+M  V30 13 O -4.0246 -0.2864 0 0
+M  V30 14 C -4.9063 -1.4999 0 0
+M  V30 15 O -4.0246 -2.7135 0 0
+M  V30 16 N 6.4951 1.5 0 0
+M  V30 17 C 7.7942 2.2499 0 0
+M  V30 18 C 7.7942 3.75 0 0
+M  V30 19 C 6.4951 4.5 0 0
+M  V30 20 C 5.1961 3.75 0 0
+M  V30 21 C 5.1961 2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 7 12
+M  V30 13 1 11 13
+M  V30 14 1 13 14
+M  V30 15 1 14 15
+M  V30 16 1 10 15
+M  V30 17 1 2 16
+M  V30 18 1 16 17
+M  V30 19 1 17 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 23 1 16 21
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0045312
+
+> <SMILES> 
+O=C(/C=C/CCc1ccc2c(c1)OCO2)N1CCCCC1
+
+> <DOI> 
+10.3390/MOLECULES14093833
+
+> <DOI> 
+10.1016/J.CHROMA.2004.03.056
+
+> <DOI> 
+10.1177/1934578X0600100101
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1021/NP900656G
+
+> <DOI> 
+10.1021/JF60178A026
+
+> <DOI> 
+10.1016/J.BMC.2010.03.013
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <DOI> 
+10.1016/S0031-9422(00)94334-6
+
+> <DOI> 
+10.1016/S0031-9422(00)94379-6
+
+> <DOI> 
+10.1039/C3AN00016H
+
+> <DOI> 
+10.1055/S-0035-1546106
+
+> <Unordered_taxonomy> 
+Plantae,Piperaceae,Piper longum,Magnoliopsida,Piper capense,Piper tuberculatum,Eukaryota,Piper nigrum,Piper swartzianum,Archaeplastida,Piper,Piper chaba,Tracheophyta,Macropiper,Piper guineense,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 20 21 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 11.6913 0 0 0
+M  V30 2 C 10.3923 -0.75 0 0
+M  V30 3 C 10.3923 -2.25 0 0
+M  V30 4 C 9.0932 0 0 0
+M  V30 5 N 7.7942 -0.75 0 0
+M  V30 6 C 6.4951 0 0 0
+M  V30 7 O 6.4951 1.5 0 0
+M  V30 8 C 5.1961 -0.75 0 0
+M  V30 9 C 3.8971 0 0 0
+M  V30 10 C 2.598 -0.75 0 0
+M  V30 11 C 1.299 0 0 0
+M  V30 12 C 0 -0.75 0 0
+M  V30 13 C 0 -2.25 0 0
+M  V30 14 C -1.299 -3 0 0
+M  V30 15 C -2.598 -2.2499 0 0
+M  V30 16 C -2.598 -0.7499 0 0
+M  V30 17 C -1.299 0 0 0
+M  V30 18 O -4.0246 -0.2864 0 0
+M  V30 19 C -4.9063 -1.4999 0 0
+M  V30 20 O -4.0246 -2.7135 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 2 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 1 6 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 2 12 13
+M  V30 13 1 13 14
+M  V30 14 2 14 15
+M  V30 15 1 15 16
+M  V30 16 2 16 17
+M  V30 17 1 12 17
+M  V30 18 1 16 18
+M  V30 19 1 18 19
+M  V30 20 1 19 20
+M  V30 21 1 15 20
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0161439
+
+> <SMILES> 
+CC(C)CN=C(O)/C=C/CCc1ccc2c(c1)OCO2
+
+> <DOI> 
+10.1007/BF02033462
+
+> <DOI> 
+10.1002/PS.1643
+
+> <DOI> 
+10.1007/BF01952540
+
+> <DOI> 
+10.1016/J.TET.2011.01.015
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1016/J.BMCL.2008.01.101
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <DOI> 
+10.1248/CPB.31.3562
+
+> <DOI> 
+10.1021/JF00103A029
+
+> <DOI> 
+10.1055/S-0035-1546106
+
+> <Unordered_taxonomy> 
+Piper arboreum,Zanthoxylum gilletii,Plantae,Rutaceae,Equisetopsida,Piperaceae,Zanthoxylum monogynum subsp. monogynum,Piper longum,Magnoliopsida,Piper macrophyllum,Piper tuberculatum,Eukaryota,Piper swartzianum,Archaeplastida,Zanthoxylum clava-herculis,Piper arboreum subsp. arboreum,Piper,Piper chaba,Tracheophyta,Macropiper,Viridiplantae,Streptophyta,Zanthoxylum,Zanthoxylum monogynum
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 16 15 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 11.2583 0 0 0
+M  V30 2 C 10.3923 -0.5 0 0
+M  V30 3 C 9.5262 0 0 0
+M  V30 4 C 8.6602 -0.5 0 0
+M  V30 5 C 7.7942 0 0 0
+M  V30 6 C 6.9282 -0.5 0 0
+M  V30 7 C 6.0621 0 0 0
+M  V30 8 C 5.1961 -0.5 0 0
+M  V30 9 C 4.3301 0 0 0
+M  V30 10 C 3.4641 -0.5 0 0
+M  V30 11 O 3.4641 -1.5 0 0
+M  V30 12 N 2.598 0 0 0
+M  V30 13 C 1.732 -0.5 0 0 CFG=2
+M  V30 14 C 1.732 -1.5 0 0
+M  V30 15 C 0.866 0 0 0
+M  V30 16 C 0 -0.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 2 10 12
+M  V30 12 1 13 12 CFG=3
+M  V30 13 1 13 14
+M  V30 14 1 13 15
+M  V30 15 1 15 16
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(1 13)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0052769
+
+> <SMILES> 
+CCCCC/C=C/C=C/C(O)=N[C@H](C)CC
+
+> <DOI> 
+10.1248/CPB.52.1349
+
+> <DOI> 
+10.1016/S0031-9422(01)00347-8
+
+> <DOI> 
+10.1007/S11418-007-0159-2
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2004.12.028
+
+> <DOI> 
+10.1248/CPB.54.149
+
+> <DOI> 
+10.1016/S0031-9422(98)00208-8
+
+> <Unordered_taxonomy> 
+Piper sarmentosum,Artemisia dracunculus,Plantae,Equisetopsida,Rutaceae,Piperaceae,Stauranthus perforatus,Stauranthus,Magnoliopsida,Piper pedicellosum,Artemisia,Piper retrofractum,Piper tuberculatum,Eukaryota,Piper nigrum,Piper swartzianum,Asteraceae,Archaeplastida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 21 23 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 7.7942 -0.75 0 0
+M  V30 2 C 6.4951 0 0 0
+M  V30 3 C 5.1961 -0.75 0 0
+M  V30 4 C 3.8971 0 0 0
+M  V30 5 C 2.598 -0.75 0 0
+M  V30 6 C 1.299 0 0 0
+M  V30 7 C 0 -0.75 0 0
+M  V30 8 C 0 -2.25 0 0
+M  V30 9 C -1.299 -3 0 0
+M  V30 10 C -2.598 -2.2499 0 0
+M  V30 11 C -2.598 -0.7499 0 0
+M  V30 12 C -1.299 0 0 0
+M  V30 13 O -4.0246 -0.2864 0 0
+M  V30 14 C -4.9063 -1.4999 0 0
+M  V30 15 O -4.0246 -2.7135 0 0
+M  V30 16 N 6.4951 1.5 0 0
+M  V30 17 C 7.7942 2.2499 0 0
+M  V30 18 C 7.7942 3.75 0 0
+M  V30 19 C 6.4951 4.5 0 0
+M  V30 20 C 5.1961 3.75 0 0
+M  V30 21 C 5.1961 2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 7 12
+M  V30 13 1 11 13
+M  V30 14 1 13 14
+M  V30 15 1 14 15
+M  V30 16 1 10 15
+M  V30 17 1 2 16
+M  V30 18 1 16 17
+M  V30 19 1 17 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 23 1 16 21
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0172073
+
+> <SMILES> 
+O=C(C=CCCc1ccc2c(c1)OCO2)N1CCCCC1
+
+> <DOI> 
+10.3390/MOLECULES14093833
+
+> <DOI> 
+10.1177/1934578X0600100101
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1021/NP900656G
+
+> <DOI> 
+10.1021/JF60178A026
+
+> <DOI> 
+10.1016/J.BMC.2010.03.013
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <DOI> 
+10.1016/S0031-9422(00)94334-6
+
+> <DOI> 
+10.1016/S0031-9422(00)94379-6
+
+> <Unordered_taxonomy> 
+Plantae,Piperaceae,Magnoliopsida,Piper capense,Piper tuberculatum,Eukaryota,Piper swartzianum,Piper nigrum,Archaeplastida,Piper,Piper chaba,Tracheophyta,Piper guineense,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 18 19 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 9.0932 0 0 0
+M  V30 2 C 7.7942 -0.75 0 0
+M  V30 3 C 7.7942 -2.25 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 N 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 O 3.8971 1.5 0 0
+M  V30 8 C 2.598 -0.75 0 0
+M  V30 9 C 1.299 0 0 0
+M  V30 10 C 0 -0.75 0 0
+M  V30 11 C 0 -2.25 0 0
+M  V30 12 C -1.299 -3 0 0
+M  V30 13 C -2.598 -2.2499 0 0
+M  V30 14 C -2.598 -0.7499 0 0
+M  V30 15 C -1.299 0 0 0
+M  V30 16 O -4.0246 -0.2864 0 0
+M  V30 17 C -4.9063 -1.4999 0 0
+M  V30 18 O -4.0246 -2.7135 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 2 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 1 6 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 2 10 11
+M  V30 11 1 11 12
+M  V30 12 2 12 13
+M  V30 13 1 13 14
+M  V30 14 2 14 15
+M  V30 15 1 10 15
+M  V30 16 1 14 16
+M  V30 17 1 16 17
+M  V30 18 1 17 18
+M  V30 19 1 13 18
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0066857
+
+> <SMILES> 
+CC(C)CN=C(O)/C=C/c1ccc2c(c1)OCO2
+
+> <DOI> 
+10.1055/S-0035-1546106
+
+> <DOI> 
+10.1002/CHIN.200340213
+
+> <DOI> 
+10.1055/S-2003-38877
+
+> <DOI> 
+10.1021/NP50057A031
+
+> <DOI> 
+10.1042/BJ0150123
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1248/CPB.35.2437
+
+> <DOI> 
+10.1007/BF01952540
+
+> <DOI> 
+10.1021/NP50046A035
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1055/S-2007-969634
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2009.08.007
+
+> <DOI> 
+10.1271/BBB.58.936
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.2307/4117899
+
+> <DOI> 
+10.1002/JHRC.1240090712
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <DOI> 
+10.1016/S0031-9422(00)90373-X
+
+> <DOI> 
+10.1055/S-2007-969054
+
+> <DOI> 
+10.1055/S-2006-960985
+
+> <DOI> 
+10.1055/S-2006-941504
+
+> <Unordered_taxonomy> 
+Zanthoxylum rubescens,Zanthoxylum gilletii,Zanthoxylum heitzii,Rutaceae,Magnoliopsida,Aristolochiaceae,Zanthoxylum zanthoxyloides,Asarum sagittarioides,Piper tuberculatum,Eukaryota,Piper nigrum,Tracheophyta,Viridiplantae,Streptophyta,Zanthoxylum rigidum,Plantae,Equisetopsida,Piperaceae,Zanthoxylum rigidum subsp. rigidum,Zanthoxylum armatum,Piper amalago,Piper swartzianum,Asarum,Archaeplastida,Piper,Piper chaba,Piper guineense,Macropiper,Zanthoxylum
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 46 50 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.732 -0.5 0 0
+M  V30 2 O 0.866 0 0 0
+M  V30 3 C 0 -0.5 0 0
+M  V30 4 C -0.866 0 0 0
+M  V30 5 C -1.732 -0.4999 0 0
+M  V30 6 C -2.598 0 0 0 CFG=1
+M  V30 7 C -2.8568 0.9659 0 0 CFG=2
+M  V30 8 C -2.3568 1.8319 0 0
+M  V30 9 O -1.3568 1.8319 0 0
+M  V30 10 N -2.8568 2.6979 0 0
+M  V30 11 C -3.8568 2.6979 0 0
+M  V30 12 C -4.3568 3.564 0 0
+M  V30 13 C -3.8568 4.43 0 0
+M  V30 14 C -2.8568 4.43 0 0
+M  V30 15 C -2.3568 3.564 0 0
+M  V30 16 O -1.3568 3.564 0 0
+M  V30 17 C -3.8228 0.7071 0 0 CFG=2
+M  V30 18 C -4.6888 1.2071 0 0
+M  V30 19 C -4.6888 2.2071 0 0
+M  V30 20 C -5.5548 2.7071 0 0
+M  V30 21 O -5.5548 3.7071 0 0
+M  V30 22 C -6.4208 4.2071 0 0
+M  V30 23 C -6.4208 2.2071 0 0
+M  V30 24 O -7.2869 2.7071 0 0
+M  V30 25 C -8.1529 2.2071 0 0
+M  V30 26 C -6.4208 1.2071 0 0
+M  V30 27 O -7.2869 0.7071 0 0
+M  V30 28 C -7.2869 -0.2928 0 0
+M  V30 29 C -5.5548 0.7071 0 0
+M  V30 30 C -3.564 -0.2588 0 0 CFG=1
+M  V30 31 C -4.064 -1.1248 0 0
+M  V30 32 O -5.064 -1.1248 0 0
+M  V30 33 N -3.564 -1.9908 0 0
+M  V30 34 C -2.564 -1.9908 0 0
+M  V30 35 C -2.064 -2.8568 0 0
+M  V30 36 C -2.564 -3.7229 0 0
+M  V30 37 C -3.564 -3.7229 0 0
+M  V30 38 C -4.064 -2.8568 0 0
+M  V30 39 O -5.064 -2.8568 0 0
+M  V30 40 C -1.732 -1.4999 0 0
+M  V30 41 C -0.866 -1.9999 0 0
+M  V30 42 O -0.866 -2.9999 0 0
+M  V30 43 C 0 -3.4999 0 0
+M  V30 44 C 0 -1.4999 0 0
+M  V30 45 O 0.866 -2 0 0
+M  V30 46 C 1.732 -1.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 6 5 CFG=3
+M  V30 6 1 7 6
+M  V30 7 1 7 8 CFG=1
+M  V30 8 2 8 9
+M  V30 9 1 8 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 14 15
+M  V30 15 1 10 15
+M  V30 16 2 15 16
+M  V30 17 1 17 7
+M  V30 18 1 17 18 CFG=1
+M  V30 19 2 18 19
+M  V30 20 1 19 20
+M  V30 21 1 20 21
+M  V30 22 1 21 22
+M  V30 23 2 20 23
+M  V30 24 1 23 24
+M  V30 25 1 24 25
+M  V30 26 1 23 26
+M  V30 27 1 26 27
+M  V30 28 1 27 28
+M  V30 29 2 26 29
+M  V30 30 1 18 29
+M  V30 31 1 30 17
+M  V30 32 1 6 30
+M  V30 33 1 30 31 CFG=3
+M  V30 34 2 31 32
+M  V30 35 1 31 33
+M  V30 36 1 33 34
+M  V30 37 1 34 35
+M  V30 38 1 35 36
+M  V30 39 2 36 37
+M  V30 40 1 37 38
+M  V30 41 1 33 38
+M  V30 42 2 38 39
+M  V30 43 2 5 40
+M  V30 44 1 40 41
+M  V30 45 1 41 42
+M  V30 46 1 42 43
+M  V30 47 2 41 44
+M  V30 48 1 3 44
+M  V30 49 1 44 45
+M  V30 50 1 45 46
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(4 6 7 17 30)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0130316
+
+> <SMILES> 
+COc1cc([C@H]2[C@H](C(=O)N3CCC=CC3=O)[C@H](c3cc(OC)c(OC)c(OC)c3)[C@H]2C(=O)N2CCC=CC2=O)cc(OC)c1OC
+
+> <DOI> 
+10.1016/0031-9422(81)85125-4
+
+> <DOI> 
+10.1002/HLCA.200490044
+
+> <Unordered_taxonomy> 
+Piper arborescens,Plantae,Piper macropiper,Piperaceae,Magnoliopsida,Piper tuberculatum,Eukaryota,Piper swartzianum,Archaeplastida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 18 18 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.3301 0 0 0
+M  V30 2 O 3.4641 -0.5 0 0
+M  V30 3 C 2.598 0 0 0
+M  V30 4 O 2.598 1 0 0
+M  V30 5 C 1.732 -0.5 0 0
+M  V30 6 C 0.866 0 0 0
+M  V30 7 C 0 -0.5 0 0
+M  V30 8 C -0.866 0 0 0
+M  V30 9 C -1.732 -0.4999 0 0
+M  V30 10 O -2.598 0 0 0
+M  V30 11 C -3.4641 -0.4999 0 0
+M  V30 12 C -1.732 -1.4999 0 0
+M  V30 13 O -2.598 -1.9999 0 0
+M  V30 14 C -2.598 -2.9999 0 0
+M  V30 15 C -0.866 -1.9999 0 0
+M  V30 16 O -0.866 -2.9999 0 0
+M  V30 17 C 0 -3.4999 0 0
+M  V30 18 C 0 -1.4999 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 3 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 2 9 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 12 15
+M  V30 15 1 15 16
+M  V30 16 1 16 17
+M  V30 17 2 15 18
+M  V30 18 1 7 18
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0091546
+
+> <SMILES> 
+COC(=O)C=Cc1cc(OC)c(OC)c(OC)c1
+
+> <DOI> 
+10.1055/S-2005-864155
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1590/S0103-50532012000400025
+
+> <DOI> 
+10.1055/S-0028-1097783
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.1248/CPB.32.3267
+
+> <Unordered_taxonomy> 
+Peperomia oreophila,Piper arborescens,Plantae,Piper macropiper,Piperaceae,Magnoliopsida,Hedysarum,Aragoa lucidula,Fabaceae,Plantaginaceae,Piper tuberculatum,Eukaryota,Piper swartzianum,Aragoa,Archaeplastida,Peperomia,Piper,Tracheophyta,Viridiplantae,Streptophyta,Hedysarum polybotrys
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 20 22 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 5.1961 -5.25 0 0
+M  V30 2 C 3.8971 -4.5 0 0
+M  V30 3 C 3.8971 -3 0 0
+M  V30 4 C 2.598 -2.25 0 0
+M  V30 5 C 2.598 -0.75 0 0
+M  V30 6 C 1.299 0 0 0
+M  V30 7 C 0 -0.75 0 0
+M  V30 8 C 0 -2.25 0 0
+M  V30 9 C -1.299 -3 0 0
+M  V30 10 C -2.598 -2.2499 0 0
+M  V30 11 C -2.598 -0.7499 0 0
+M  V30 12 C -1.299 0 0 0
+M  V30 13 O -4.0246 -0.2864 0 0
+M  V30 14 C -4.9063 -1.4999 0 0
+M  V30 15 O -4.0246 -2.7135 0 0
+M  V30 16 N 2.598 -5.25 0 0
+M  V30 17 C 2.4412 -6.7417 0 0
+M  V30 18 C 0.974 -7.0536 0 0
+M  V30 19 C 0.224 -5.7546 0 0
+M  V30 20 C 1.2277 -4.6398 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 7 12
+M  V30 13 1 11 13
+M  V30 14 1 13 14
+M  V30 15 1 14 15
+M  V30 16 1 10 15
+M  V30 17 1 2 16
+M  V30 18 1 16 17
+M  V30 19 1 17 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 16 20
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0148846
+
+> <SMILES> 
+O=C(/C=C/C=C\c1ccc2c(c1)OCO2)N1CCCC1
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1021/NP030475E
+
+> <Unordered_taxonomy> 
+Piper arboreum,Plantae,Piperaceae,Magnoliopsida,Piper tuberculatum,Eukaryota,Piper nigrum,Piper swartzianum,Archaeplastida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 20 21 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 11.6913 0 0 0
+M  V30 2 C 10.3923 -0.75 0 0
+M  V30 3 C 10.3923 -2.25 0 0
+M  V30 4 C 9.0932 0 0 0
+M  V30 5 N 7.7942 -0.75 0 0
+M  V30 6 C 6.4951 0 0 0
+M  V30 7 O 6.4951 1.5 0 0
+M  V30 8 C 5.1961 -0.75 0 0
+M  V30 9 C 3.8971 0 0 0
+M  V30 10 C 2.598 -0.75 0 0
+M  V30 11 C 1.299 0 0 0
+M  V30 12 C 0 -0.75 0 0
+M  V30 13 C 0 -2.25 0 0
+M  V30 14 C -1.299 -3 0 0
+M  V30 15 C -2.598 -2.2499 0 0
+M  V30 16 C -2.598 -0.7499 0 0
+M  V30 17 C -1.299 0 0 0
+M  V30 18 O -4.0246 -0.2864 0 0
+M  V30 19 C -4.9063 -1.4999 0 0
+M  V30 20 O -4.0246 -2.7135 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 2 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 1 6 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 2 12 13
+M  V30 13 1 13 14
+M  V30 14 2 14 15
+M  V30 15 1 15 16
+M  V30 16 2 16 17
+M  V30 17 1 12 17
+M  V30 18 1 16 18
+M  V30 19 1 18 19
+M  V30 20 1 19 20
+M  V30 21 1 15 20
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0276169
+
+> <SMILES> 
+CC(C)CN=C(O)C=CCCc1ccc2c(c1)OCO2
+
+> <DOI> 
+10.1016/J.BMCL.2008.01.101
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1016/J.TET.2011.01.015
+
+> <DOI> 
+10.1007/BF02033462
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <DOI> 
+10.1248/CPB.31.3562
+
+> <Unordered_taxonomy> 
+Plantae,Piperaceae,Piper longum,Magnoliopsida,Piper tuberculatum,Eukaryota,Piper swartzianum,Archaeplastida,Piper,Piper chaba,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 16 17 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 7.7942 -0.75 0 0
+M  V30 2 C 6.4951 0 0 0
+M  V30 3 O 6.4951 1.5 0 0
+M  V30 4 C 5.1961 -0.75 0 0
+M  V30 5 C 3.8971 0 0 0
+M  V30 6 C 2.598 -0.75 0 0
+M  V30 7 C 1.299 0 0 0
+M  V30 8 C 0 -0.75 0 0
+M  V30 9 C 0 -2.25 0 0
+M  V30 10 C -1.299 -3 0 0
+M  V30 11 C -2.598 -2.2499 0 0
+M  V30 12 C -2.598 -0.7499 0 0
+M  V30 13 C -1.299 0 0 0
+M  V30 14 O -4.0246 -0.2864 0 0
+M  V30 15 C -4.9063 -1.4999 0 0
+M  V30 16 O -4.0246 -2.7135 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 1 2 4
+M  V30 4 2 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 2 10 11
+M  V30 11 1 11 12
+M  V30 12 2 12 13
+M  V30 13 1 8 13
+M  V30 14 1 12 14
+M  V30 15 1 14 15
+M  V30 16 1 15 16
+M  V30 17 1 11 16
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0215880
+
+> <SMILES> 
+O=C(O)/C=C/C=C/c1ccc2c(c1)OCO2
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 18 19 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 9.0932 0 0 0
+M  V30 2 C 7.7942 -0.75 0 0
+M  V30 3 C 7.7942 -2.25 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 N 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 O 3.8971 1.5 0 0
+M  V30 8 C 2.598 -0.75 0 0
+M  V30 9 C 1.299 0 0 0
+M  V30 10 C 0 -0.75 0 0
+M  V30 11 C 0 -2.25 0 0
+M  V30 12 C -1.299 -3 0 0
+M  V30 13 C -2.598 -2.2499 0 0
+M  V30 14 C -2.598 -0.7499 0 0
+M  V30 15 C -1.299 0 0 0
+M  V30 16 O -4.0246 -0.2864 0 0
+M  V30 17 C -4.9063 -1.4999 0 0
+M  V30 18 O -4.0246 -2.7135 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 2 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 1 6 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 2 10 11
+M  V30 11 1 11 12
+M  V30 12 2 12 13
+M  V30 13 1 13 14
+M  V30 14 2 14 15
+M  V30 15 1 10 15
+M  V30 16 1 14 16
+M  V30 17 1 16 17
+M  V30 18 1 17 18
+M  V30 19 1 13 18
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0042226
+
+> <SMILES> 
+CC(C)CN=C(O)C=Cc1ccc2c(c1)OCO2
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1002/JCCS.200200021
+
+> <DOI> 
+10.1016/J.PHYTOCHEM.2009.08.007
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1042/BJ0150123
+
+> <DOI> 
+10.1055/S-2003-38877
+
+> <DOI> 
+10.1002/JHRC.1240090712
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.1055/S-2006-941504
+
+> <DOI> 
+10.1016/J.BMC.2009.08.050
+
+> <Unordered_taxonomy> 
+Zanthoxylum schinifolium,Zanthoxylum rigidum,Zanthoxylum heitzii,Zanthoxylum gilletii,Plantae,Rutaceae,Piperaceae,Magnoliopsida,Zanthoxylum rigidum subsp. rigidum,Zanthoxylum zanthoxyloides,Piper tuberculatum,Eukaryota,Piper swartzianum,Piper nigrum,Archaeplastida,Piper,Piper chaba,Tracheophyta,Viridiplantae,Streptophyta,Zanthoxylum
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 46 50 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.732 -0.5 0 0
+M  V30 2 O 0.866 0 0 0
+M  V30 3 C 0 -0.5 0 0
+M  V30 4 C -0.866 0 0 0
+M  V30 5 C -1.732 -0.4999 0 0
+M  V30 6 C -2.598 0 0 0
+M  V30 7 C -2.8568 0.9659 0 0
+M  V30 8 C -2.3568 1.8319 0 0
+M  V30 9 O -1.3568 1.8319 0 0
+M  V30 10 N -2.8568 2.6979 0 0
+M  V30 11 C -3.8568 2.6979 0 0
+M  V30 12 C -4.3568 3.564 0 0
+M  V30 13 C -3.8568 4.43 0 0
+M  V30 14 C -2.8568 4.43 0 0
+M  V30 15 C -2.3568 3.564 0 0
+M  V30 16 O -1.3568 3.564 0 0
+M  V30 17 C -3.8228 0.7071 0 0
+M  V30 18 C -4.6888 1.2071 0 0
+M  V30 19 C -4.6888 2.2071 0 0
+M  V30 20 C -5.5548 2.7071 0 0
+M  V30 21 O -5.5548 3.7071 0 0
+M  V30 22 C -6.4208 4.2071 0 0
+M  V30 23 C -6.4208 2.2071 0 0
+M  V30 24 O -7.2869 2.7071 0 0
+M  V30 25 C -8.1529 2.2071 0 0
+M  V30 26 C -6.4208 1.2071 0 0
+M  V30 27 O -7.2869 0.7071 0 0
+M  V30 28 C -7.2869 -0.2928 0 0
+M  V30 29 C -5.5548 0.7071 0 0
+M  V30 30 C -3.564 -0.2588 0 0
+M  V30 31 C -4.064 -1.1248 0 0
+M  V30 32 O -5.064 -1.1248 0 0
+M  V30 33 N -3.564 -1.9908 0 0
+M  V30 34 C -2.564 -1.9908 0 0
+M  V30 35 C -2.064 -2.8568 0 0
+M  V30 36 C -2.564 -3.7229 0 0
+M  V30 37 C -3.564 -3.7229 0 0
+M  V30 38 C -4.064 -2.8568 0 0
+M  V30 39 O -5.064 -2.8568 0 0
+M  V30 40 C -1.732 -1.4999 0 0
+M  V30 41 C -0.866 -1.9999 0 0
+M  V30 42 O -0.866 -2.9999 0 0
+M  V30 43 C 0 -3.4999 0 0
+M  V30 44 C 0 -1.4999 0 0
+M  V30 45 O 0.866 -2 0 0
+M  V30 46 C 1.732 -1.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 8 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 14 15
+M  V30 15 1 10 15
+M  V30 16 2 15 16
+M  V30 17 1 7 17
+M  V30 18 1 17 18
+M  V30 19 2 18 19
+M  V30 20 1 19 20
+M  V30 21 1 20 21
+M  V30 22 1 21 22
+M  V30 23 2 20 23
+M  V30 24 1 23 24
+M  V30 25 1 24 25
+M  V30 26 1 23 26
+M  V30 27 1 26 27
+M  V30 28 1 27 28
+M  V30 29 2 26 29
+M  V30 30 1 18 29
+M  V30 31 1 17 30
+M  V30 32 1 6 30
+M  V30 33 1 30 31
+M  V30 34 2 31 32
+M  V30 35 1 31 33
+M  V30 36 1 33 34
+M  V30 37 1 34 35
+M  V30 38 1 35 36
+M  V30 39 2 36 37
+M  V30 40 1 37 38
+M  V30 41 1 33 38
+M  V30 42 2 38 39
+M  V30 43 2 5 40
+M  V30 44 1 40 41
+M  V30 45 1 41 42
+M  V30 46 1 42 43
+M  V30 47 2 41 44
+M  V30 48 1 3 44
+M  V30 49 1 44 45
+M  V30 50 1 45 46
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0229333
+
+> <SMILES> 
+COc1cc(C2C(C(=O)N3CCC=CC3=O)C(c3cc(OC)c(OC)c(OC)c3)C2C(=O)N2CCC=CC2=O)cc(OC)c1OC
+
+> <DOI> 
+10.1016/0031-9422(81)85125-4
+
+> <DOI> 
+10.1002/HLCA.200490044
+
+> <DOI> 
+10.1021/NP50072A030
+
+> <Unordered_taxonomy> 
+Piper arborescens,Plantae,Piper macropiper,Piperaceae,Magnoliopsida,Piper tuberculatum,Eukaryota,Piper swartzianum,Archaeplastida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 18 18 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.3301 0 0 0
+M  V30 2 O 3.4641 -0.5 0 0
+M  V30 3 C 2.598 0 0 0
+M  V30 4 O 2.598 1 0 0
+M  V30 5 C 1.732 -0.5 0 0
+M  V30 6 C 0.866 0 0 0
+M  V30 7 C 0 -0.5 0 0
+M  V30 8 C -0.866 0 0 0
+M  V30 9 C -1.732 -0.4999 0 0
+M  V30 10 O -2.598 0 0 0
+M  V30 11 C -3.4641 -0.4999 0 0
+M  V30 12 C -1.732 -1.4999 0 0
+M  V30 13 O -2.598 -1.9999 0 0
+M  V30 14 C -2.598 -2.9999 0 0
+M  V30 15 C -0.866 -1.9999 0 0
+M  V30 16 O -0.866 -2.9999 0 0
+M  V30 17 C 0 -3.4999 0 0
+M  V30 18 C 0 -1.4999 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 3 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 2 9 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 12 15
+M  V30 15 1 15 16
+M  V30 16 1 16 17
+M  V30 17 2 15 18
+M  V30 18 1 7 18
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0032751
+
+> <SMILES> 
+COC(=O)/C=C/c1cc(OC)c(OC)c(OC)c1
+
+> <DOI> 
+10.1055/S-2005-864155
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1055/S-0028-1097783
+
+> <DOI> 
+10.1590/S0103-50532012000400025
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.1248/CPB.32.3267
+
+> <Unordered_taxonomy> 
+Peperomia oreophila,Piper arborescens,Plantae,Piper macropiper,Piperaceae,Magnoliopsida,Hedysarum,Aragoa lucidula,Fabaceae,Plantaginaceae,Piper tuberculatum,Eukaryota,Piper swartzianum,Aragoa,Archaeplastida,Peperomia,Piper,Tracheophyta,Viridiplantae,Streptophyta,Hedysarum polybotrys
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 22 24 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 6.0621 -3 0 0
+M  V30 2 O 6.0621 -1.9999 0 0
+M  V30 3 C 5.1961 -1.4999 0 0
+M  V30 4 C 5.1961 -0.5 0 0
+M  V30 5 C 4.3301 0 0 0
+M  V30 6 C 3.4641 -0.5 0 0
+M  V30 7 C 2.598 0 0 0
+M  V30 8 C 1.732 -0.5 0 0
+M  V30 9 C 0.866 0 0 0
+M  V30 10 O 0.866 1 0 0
+M  V30 11 N 0 -0.5 0 0
+M  V30 12 C -0.866 0 0 0
+M  V30 13 C -1.732 -0.4999 0 0
+M  V30 14 C -1.732 -1.4999 0 0 CFG=1
+M  V30 15 O -1.732 -2.4999 0 0
+M  V30 16 C -0.866 -1.9999 0 0 CFG=1
+M  V30 17 C 0 -1.4999 0 0
+M  V30 18 O 0.866 -1.9999 0 0
+M  V30 19 C 3.4641 -1.5 0 0
+M  V30 20 C 4.3301 -1.9999 0 0
+M  V30 21 O 4.3301 -2.9999 0 0
+M  V30 22 C 5.1961 -3.4999 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 9 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 1 14 13
+M  V30 14 1 14 15 CFG=3
+M  V30 15 1 16 15 CFG=3
+M  V30 16 1 14 16
+M  V30 17 1 16 17
+M  V30 18 1 11 17
+M  V30 19 2 17 18
+M  V30 20 1 6 19
+M  V30 21 2 19 20
+M  V30 22 1 3 20
+M  V30 23 1 20 21
+M  V30 24 1 21 22
+M  V30 END BOND
+M  V30 BEGIN COLLECTION
+M  V30 MDLV30/STEABS ATOMS=(2 14 16)
+M  V30 END COLLECTION
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0089186
+
+> <SMILES> 
+COc1ccc(CCC(=O)N2CC[C@H]3O[C@H]3C2=O)cc1OC
+
+> <DOI> 
+10.1007/S10886-010-9852-9
+
+> <DOI> 
+10.1021/NP960379W
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Piper melanocladum,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 22 24 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 6.0621 -3 0 0
+M  V30 2 O 6.0621 -1.9999 0 0
+M  V30 3 C 5.1961 -1.4999 0 0
+M  V30 4 C 5.1961 -0.5 0 0
+M  V30 5 C 4.3301 0 0 0
+M  V30 6 C 3.4641 -0.5 0 0
+M  V30 7 C 2.598 0 0 0
+M  V30 8 C 1.732 -0.5 0 0
+M  V30 9 C 0.866 0 0 0
+M  V30 10 O 0.866 1 0 0
+M  V30 11 N 0 -0.5 0 0
+M  V30 12 C -0.866 0 0 0
+M  V30 13 C -1.732 -0.4999 0 0
+M  V30 14 C -1.732 -1.4999 0 0
+M  V30 15 O -1.732 -2.4999 0 0
+M  V30 16 C -0.866 -1.9999 0 0
+M  V30 17 C 0 -1.4999 0 0
+M  V30 18 O 0.866 -1.9999 0 0
+M  V30 19 C 3.4641 -1.5 0 0
+M  V30 20 C 4.3301 -1.9999 0 0
+M  V30 21 O 4.3301 -2.9999 0 0
+M  V30 22 C 5.1961 -3.4999 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 9 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 15 16
+M  V30 16 1 14 16
+M  V30 17 1 16 17
+M  V30 18 1 11 17
+M  V30 19 2 17 18
+M  V30 20 1 6 19
+M  V30 21 2 19 20
+M  V30 22 1 3 20
+M  V30 23 1 20 21
+M  V30 24 1 21 22
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0103749
+
+> <SMILES> 
+COc1ccc(CCC(=O)N2CCC3OC3C2=O)cc1OC
+
+> <DOI> 
+10.1007/S10886-010-9852-9
+
+> <DOI> 
+10.1021/NP960379W
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper melanocladum,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 23 25 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 10.3923 -0.75 0 0
+M  V30 2 C 9.0932 0 0 0
+M  V30 3 C 7.7942 -0.75 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 C 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 C 2.598 -0.75 0 0
+M  V30 8 C 1.299 0 0 0
+M  V30 9 C 0 -0.75 0 0
+M  V30 10 C 0 -2.25 0 0
+M  V30 11 C -1.299 -3 0 0
+M  V30 12 C -2.598 -2.2499 0 0
+M  V30 13 C -2.598 -0.7499 0 0
+M  V30 14 C -1.299 0 0 0
+M  V30 15 O -4.0246 -0.2864 0 0
+M  V30 16 C -4.9063 -1.4999 0 0
+M  V30 17 O -4.0246 -2.7135 0 0
+M  V30 18 N 9.0932 1.4999 0 0
+M  V30 19 C 10.3923 2.2499 0 0
+M  V30 20 C 10.3923 3.7499 0 0
+M  V30 21 C 9.0932 4.5 0 0
+M  V30 22 C 7.7942 3.75 0 0
+M  V30 23 C 7.7942 2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 9 14
+M  V30 15 1 13 15
+M  V30 16 1 15 16
+M  V30 17 1 16 17
+M  V30 18 1 12 17
+M  V30 19 1 2 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 23 1 21 22
+M  V30 24 1 22 23
+M  V30 25 1 18 23
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0119942
+
+> <SMILES> 
+O=C(/C=C/CCCCc1ccc2c(c1)OCO2)N1CCCCC1
+
+> <DOI> 
+10.1016/J.FITOTE.2012.12.001
+
+> <DOI> 
+10.1016/S0031-9422(96)00585-7
+
+> <DOI> 
+10.1016/S0367-326X(02)00321-0
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper puberulum,Piper swartzianum,Archaeplastida,Plantae,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 21 23 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 7.7942 -0.75 0 0
+M  V30 2 C 6.4951 0 0 0
+M  V30 3 C 5.1961 -0.75 0 0
+M  V30 4 C 3.8971 0 0 0
+M  V30 5 C 2.598 -0.75 0 0
+M  V30 6 C 1.299 0 0 0
+M  V30 7 C 0 -0.75 0 0
+M  V30 8 C 0 -2.25 0 0
+M  V30 9 C -1.299 -3 0 0
+M  V30 10 C -2.598 -2.2499 0 0
+M  V30 11 C -2.598 -0.7499 0 0
+M  V30 12 C -1.299 0 0 0
+M  V30 13 O -4.0246 -0.2864 0 0
+M  V30 14 C -4.9063 -1.4999 0 0
+M  V30 15 O -4.0246 -2.7135 0 0
+M  V30 16 N 6.4951 1.5 0 0
+M  V30 17 C 7.7942 2.2499 0 0
+M  V30 18 C 7.7942 3.75 0 0
+M  V30 19 C 6.4951 4.5 0 0
+M  V30 20 C 5.1961 3.75 0 0
+M  V30 21 C 5.1961 2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 7 12
+M  V30 13 1 11 13
+M  V30 14 1 13 14
+M  V30 15 1 14 15
+M  V30 16 1 10 15
+M  V30 17 1 2 16
+M  V30 18 1 16 17
+M  V30 19 1 17 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 23 1 16 21
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0141291
+
+> <SMILES> 
+O=C(CCCCc1ccc2c(c1)OCO2)N1CCCCC1
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.1016/S0305-1978(00)00083-1
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Piper longum,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 32 31 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 20.7846 -2.25 0 0
+M  V30 2 C 20.7846 -0.75 0 0
+M  V30 3 C 22.0837 0 0 0
+M  V30 4 C 23.3827 -0.75 0 0
+M  V30 5 C 24.6817 0 0 0
+M  V30 6 C 25.9808 -0.75 0 0
+M  V30 7 O 24.6817 1.5 0 0
+M  V30 8 C 19.4856 0 0 0
+M  V30 9 C 18.1865 -0.75 0 0
+M  V30 10 O 18.1865 -2.25 0 0
+M  V30 11 N 16.8875 0 0 0
+M  V30 12 C 15.5885 -0.75 0 0
+M  V30 13 C 14.2894 0 0 0
+M  V30 14 C 15.0394 1.299 0 0
+M  V30 15 C 13.5394 1.299 0 0
+M  V30 16 C 12.9904 -0.75 0 0
+M  V30 17 O 12.9904 -2.25 0 0
+M  V30 18 C 11.6913 0 0 0
+M  V30 19 C 10.9414 -1.299 0 0
+M  V30 20 C 10.1914 0 0 0
+M  V30 21 C 11.6913 1.5 0 0
+M  V30 22 N 10.3923 2.25 0 0
+M  V30 23 C 10.3923 3.75 0 0
+M  V30 24 O 11.6913 4.5 0 0
+M  V30 25 C 9.0932 4.5 0 0
+M  V30 26 C 9.0932 6 0 0
+M  V30 27 C 10.3923 6.75 0 0
+M  V30 28 C 7.7942 6.75 0 0
+M  V30 29 C 7.7942 8.25 0 0
+M  V30 30 C 6.4952 9 0 0
+M  V30 31 C 5.1961 8.25 0 0
+M  V30 32 O 6.4952 10.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 5 7
+M  V30 7 2 2 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 2 9 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 13 15
+M  V30 15 1 13 16
+M  V30 16 2 16 17
+M  V30 17 1 16 18
+M  V30 18 1 18 19
+M  V30 19 1 18 20
+M  V30 20 1 18 21
+M  V30 21 1 21 22
+M  V30 22 2 22 23
+M  V30 23 1 23 24
+M  V30 24 1 23 25
+M  V30 25 2 25 26
+M  V30 26 1 26 27
+M  V30 27 1 26 28
+M  V30 28 2 28 29
+M  V30 29 1 29 30
+M  V30 30 1 30 31
+M  V30 31 1 30 32
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0152952
+
+> <SMILES> 
+CC(/C=C/C(C)O)=C\C(O)=NCC(C)(C)C(=O)C(C)(C)CN=C(O)/C=C(C)/C=C/C(C)O
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <Unordered_taxonomy> 
+Piper arboreum,Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 17 17 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 12.9903 -0.75 0 0
+M  V30 2 C 11.6913 0 0 0
+M  V30 3 C 10.3923 -0.75 0 0
+M  V30 4 C 9.0932 0 0 0
+M  V30 5 C 7.7942 -0.75 0 0
+M  V30 6 C 6.4951 0 0 0
+M  V30 7 C 5.1961 -0.75 0 0
+M  V30 8 C 3.8971 0 0 0
+M  V30 9 C 2.598 -0.75 0 0
+M  V30 10 C 1.299 0 0 0
+M  V30 11 O 1.299 1.5 0 0
+M  V30 12 N 0 -0.75 0 0
+M  V30 13 C -1.299 0 0 0
+M  V30 14 C -2.598 -0.7499 0 0
+M  V30 15 C -2.598 -2.2499 0 0
+M  V30 16 C -1.299 -2.9999 0 0
+M  V30 17 C 0 -2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 2 10 11
+M  V30 11 1 10 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 15 16
+M  V30 16 1 16 17
+M  V30 17 1 12 17
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0110933
+
+> <SMILES> 
+CCCCCC=CC=CC(=O)N1CCCCC1
+
+> <DOI> 
+10.1016/S0031-9422(01)00347-8
+
+> <DOI> 
+10.1016/S0367-326X(00)00271-9
+
+> <DOI> 
+10.1016/0031-9422(83)80032-6
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1002/JLAC.198319830712
+
+> <DOI> 
+10.1016/S0968-0896(02)00130-X
+
+> <DOI> 
+10.1016/S0031-9422(00)97985-8
+
+> <Unordered_taxonomy> 
+Artemisia dracunculus,Plantae,Equisetopsida,Piperaceae,Magnoliopsida,Achillea falcata,Artemisia,Piper tuberculatum,Eukaryota,Achillea millefolium,Piper swartzianum,Piper nigrum,Asteraceae,Archaeplastida,Achillea,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 23 25 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 10.3923 -0.75 0 0
+M  V30 2 C 9.0932 0 0 0
+M  V30 3 C 7.7942 -0.75 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 C 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 C 2.598 -0.75 0 0
+M  V30 8 C 1.299 0 0 0
+M  V30 9 C 0 -0.75 0 0
+M  V30 10 C 0 -2.25 0 0
+M  V30 11 C -1.299 -3 0 0
+M  V30 12 C -2.598 -2.2499 0 0
+M  V30 13 C -2.598 -0.7499 0 0
+M  V30 14 C -1.299 0 0 0
+M  V30 15 O -4.0246 -0.2864 0 0
+M  V30 16 C -4.9063 -1.4999 0 0
+M  V30 17 O -4.0246 -2.7135 0 0
+M  V30 18 N 9.0932 1.4999 0 0
+M  V30 19 C 10.3923 2.2499 0 0
+M  V30 20 C 10.3923 3.7499 0 0
+M  V30 21 C 9.0932 4.5 0 0
+M  V30 22 C 7.7942 3.75 0 0
+M  V30 23 C 7.7942 2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 9 14
+M  V30 15 1 13 15
+M  V30 16 1 15 16
+M  V30 17 1 16 17
+M  V30 18 1 12 17
+M  V30 19 1 2 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 23 1 21 22
+M  V30 24 1 22 23
+M  V30 25 1 18 23
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0024201
+
+> <SMILES> 
+O=C(C=CC=CCCc1ccc2c(c1)OCO2)N1CCCCC1
+
+> <DOI> 
+10.1055/S-2002-35660
+
+> <DOI> 
+10.1016/S0031-9422(96)00503-1
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Piper sintenense,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 32 31 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 20.7846 -2.25 0 0
+M  V30 2 C 20.7846 -0.75 0 0
+M  V30 3 C 22.0837 0 0 0
+M  V30 4 C 23.3827 -0.75 0 0
+M  V30 5 C 24.6817 0 0 0
+M  V30 6 C 25.9808 -0.75 0 0
+M  V30 7 O 24.6817 1.5 0 0
+M  V30 8 C 19.4856 0 0 0
+M  V30 9 C 18.1865 -0.75 0 0
+M  V30 10 O 18.1865 -2.25 0 0
+M  V30 11 N 16.8875 0 0 0
+M  V30 12 C 15.5885 -0.75 0 0
+M  V30 13 C 14.2894 0 0 0
+M  V30 14 C 15.0394 1.299 0 0
+M  V30 15 C 13.5394 1.299 0 0
+M  V30 16 C 12.9904 -0.75 0 0
+M  V30 17 O 12.9904 -2.25 0 0
+M  V30 18 C 11.6913 0 0 0
+M  V30 19 C 10.9414 -1.299 0 0
+M  V30 20 C 10.1914 0 0 0
+M  V30 21 C 11.6913 1.5 0 0
+M  V30 22 N 10.3923 2.25 0 0
+M  V30 23 C 10.3923 3.75 0 0
+M  V30 24 O 11.6913 4.5 0 0
+M  V30 25 C 9.0932 4.5 0 0
+M  V30 26 C 9.0932 6 0 0
+M  V30 27 C 10.3923 6.75 0 0
+M  V30 28 C 7.7942 6.75 0 0
+M  V30 29 C 7.7942 8.25 0 0
+M  V30 30 C 6.4952 9 0 0
+M  V30 31 C 5.1961 8.25 0 0
+M  V30 32 O 6.4952 10.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 5 7
+M  V30 7 2 2 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 2 9 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 13 15
+M  V30 15 1 13 16
+M  V30 16 2 16 17
+M  V30 17 1 16 18
+M  V30 18 1 18 19
+M  V30 19 1 18 20
+M  V30 20 1 18 21
+M  V30 21 1 21 22
+M  V30 22 2 22 23
+M  V30 23 1 23 24
+M  V30 24 1 23 25
+M  V30 25 2 25 26
+M  V30 26 1 26 27
+M  V30 27 1 26 28
+M  V30 28 2 28 29
+M  V30 29 1 29 30
+M  V30 30 1 30 31
+M  V30 31 1 30 32
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0036635
+
+> <SMILES> 
+CC(C=CC(C)O)=CC(O)=NCC(C)(C)C(=O)C(C)(C)CN=C(O)C=C(C)C=CC(C)O
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <Unordered_taxonomy> 
+Piper arboreum,Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 17 17 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 12.9903 -0.75 0 0
+M  V30 2 C 11.6913 0 0 0
+M  V30 3 C 10.3923 -0.75 0 0
+M  V30 4 C 9.0932 0 0 0
+M  V30 5 C 7.7942 -0.75 0 0
+M  V30 6 C 6.4951 0 0 0
+M  V30 7 C 5.1961 -0.75 0 0
+M  V30 8 C 3.8971 0 0 0
+M  V30 9 C 2.598 -0.75 0 0
+M  V30 10 C 1.299 0 0 0
+M  V30 11 O 1.299 1.5 0 0
+M  V30 12 N 0 -0.75 0 0
+M  V30 13 C -1.299 0 0 0
+M  V30 14 C -2.598 -0.7499 0 0
+M  V30 15 C -2.598 -2.2499 0 0
+M  V30 16 C -1.299 -2.9999 0 0
+M  V30 17 C 0 -2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 2 10 11
+M  V30 11 1 10 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 15 16
+M  V30 16 1 16 17
+M  V30 17 1 12 17
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0273026
+
+> <SMILES> 
+CCCCC/C=C/C=C/C(=O)N1CCCCC1
+
+> <DOI> 
+10.1055/S-2006-961017
+
+> <DOI> 
+10.1016/S0031-9422(00)97985-8
+
+> <DOI> 
+10.1002/JLAC.198319830712
+
+> <DOI> 
+10.1016/0031-9422(83)80032-6
+
+> <DOI> 
+10.1016/S0031-9422(01)00347-8
+
+> <DOI> 
+10.1016/S0367-326X(00)00271-9
+
+> <DOI> 
+10.1021/NP030475E
+
+> <DOI> 
+10.1016/S0167-4501(06)80006-3
+
+> <DOI> 
+10.1016/S0968-0896(02)00130-X
+
+> <Unordered_taxonomy> 
+Artemisia dracunculus,Plantae,Equisetopsida,Piperaceae,Magnoliopsida,Achillea asiatica,Achillea falcata,Artemisia,Piper tuberculatum,Eukaryota,Achillea millefolium,Piper swartzianum,Piper nigrum,Asteraceae,Archaeplastida,Achillea,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 23 25 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 10.3923 -0.75 0 0
+M  V30 2 C 9.0932 0 0 0
+M  V30 3 C 7.7942 -0.75 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 C 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 C 2.598 -0.75 0 0
+M  V30 8 C 1.299 0 0 0
+M  V30 9 C 0 -0.75 0 0
+M  V30 10 C 0 -2.25 0 0
+M  V30 11 C -1.299 -3 0 0
+M  V30 12 C -2.598 -2.2499 0 0
+M  V30 13 C -2.598 -0.7499 0 0
+M  V30 14 C -1.299 0 0 0
+M  V30 15 O -4.0246 -0.2864 0 0
+M  V30 16 C -4.9063 -1.4999 0 0
+M  V30 17 O -4.0246 -2.7135 0 0
+M  V30 18 N 9.0932 1.4999 0 0
+M  V30 19 C 10.3923 2.2499 0 0
+M  V30 20 C 10.3923 3.7499 0 0
+M  V30 21 C 9.0932 4.5 0 0
+M  V30 22 C 7.7942 3.75 0 0
+M  V30 23 C 7.7942 2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 9 14
+M  V30 15 1 13 15
+M  V30 16 1 15 16
+M  V30 17 1 16 17
+M  V30 18 1 12 17
+M  V30 19 1 2 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 23 1 21 22
+M  V30 24 1 22 23
+M  V30 25 1 18 23
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0013945
+
+> <SMILES> 
+O=C(/C=C/C=C/CCc1ccc2c(c1)OCO2)N1CCCCC1
+
+> <DOI> 
+10.1055/S-0035-1546106
+
+> <DOI> 
+10.1055/S-2002-35660
+
+> <DOI> 
+10.1016/S0031-9422(96)00503-1
+
+> <Unordered_taxonomy> 
+Piper sintenense,Plantae,Piperaceae,Magnoliopsida,Piper tuberculatum,Eukaryota,Piper swartzianum,Archaeplastida,Piper,Tracheophyta,Macropiper,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 21 22 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 9.0932 -4.5 0 0
+M  V30 2 O 9.0932 -3 0 0
+M  V30 3 C 7.7942 -2.2499 0 0
+M  V30 4 C 7.7942 -0.75 0 0
+M  V30 5 C 6.4951 0 0 0
+M  V30 6 C 5.1961 -0.75 0 0
+M  V30 7 C 3.8971 0 0 0
+M  V30 8 C 2.598 -0.75 0 0
+M  V30 9 C 1.299 0 0 0
+M  V30 10 O 1.299 1.5 0 0
+M  V30 11 N 0 -0.75 0 0
+M  V30 12 C -1.299 0 0 0
+M  V30 13 C -2.598 -0.7499 0 0
+M  V30 14 C -2.598 -2.2499 0 0
+M  V30 15 C -1.299 -2.9999 0 0
+M  V30 16 C 0 -2.2499 0 0
+M  V30 17 O 1.299 -3 0 0
+M  V30 18 C 5.1961 -2.25 0 0
+M  V30 19 C 6.4951 -2.9999 0 0
+M  V30 20 O 6.4951 -4.5 0 0
+M  V30 21 C 7.7942 -5.2499 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 9 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 2 14 15
+M  V30 15 1 15 16
+M  V30 16 1 11 16
+M  V30 17 2 16 17
+M  V30 18 1 6 18
+M  V30 19 2 18 19
+M  V30 20 1 3 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0131071
+
+> <SMILES> 
+COc1ccc(/C=C/C(=O)N2CCC=CC2=O)cc1OC
+
+> <DOI> 
+10.1016/J.FITOTE.2012.12.001
+
+> <DOI> 
+10.1021/NP960379W
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Piper longum,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 16 15 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 11.2583 0 0 0
+M  V30 2 C 10.3923 -0.5 0 0
+M  V30 3 C 9.5262 0 0 0
+M  V30 4 C 8.6602 -0.5 0 0
+M  V30 5 C 7.7942 0 0 0
+M  V30 6 C 6.9282 -0.5 0 0
+M  V30 7 C 6.0621 0 0 0
+M  V30 8 C 5.1961 -0.5 0 0
+M  V30 9 C 4.3301 0 0 0
+M  V30 10 C 3.4641 -0.5 0 0
+M  V30 11 O 3.4641 -1.5 0 0
+M  V30 12 N 2.598 0 0 0
+M  V30 13 C 1.732 -0.5 0 0
+M  V30 14 C 0.866 0 0 0
+M  V30 15 C 0.866 1 0 0
+M  V30 16 C 0 -0.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 1 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 2 10 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 14 16
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0073455
+
+> <SMILES> 
+CCCCCCCCCC(O)=NCC(C)C
+
+> <DOI> 
+10.1055/S-2006-957913
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <Unordered_taxonomy> 
+Plantae,Piperaceae,Magnoliopsida,Menispermaceae,Piper tuberculatum,Eukaryota,Piper swartzianum,Archaeplastida,Cissampelos glaberrima,Piper,Cissampelos,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 16 17 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 7.7942 -0.75 0 0
+M  V30 2 C 6.4951 0 0 0
+M  V30 3 O 6.4951 1.5 0 0
+M  V30 4 C 5.1961 -0.75 0 0
+M  V30 5 C 3.8971 0 0 0
+M  V30 6 C 2.598 -0.75 0 0
+M  V30 7 C 1.299 0 0 0
+M  V30 8 C 0 -0.75 0 0
+M  V30 9 C 0 -2.25 0 0
+M  V30 10 C -1.299 -3 0 0
+M  V30 11 C -2.598 -2.2499 0 0
+M  V30 12 C -2.598 -0.7499 0 0
+M  V30 13 C -1.299 0 0 0
+M  V30 14 O -4.0246 -0.2864 0 0
+M  V30 15 C -4.9063 -1.4999 0 0
+M  V30 16 O -4.0246 -2.7135 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 1 2 4
+M  V30 4 2 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 9 10
+M  V30 10 2 10 11
+M  V30 11 1 11 12
+M  V30 12 2 12 13
+M  V30 13 1 8 13
+M  V30 14 1 12 14
+M  V30 15 1 14 15
+M  V30 16 1 15 16
+M  V30 17 1 11 16
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0086973
+
+> <SMILES> 
+O=C(O)C=CC=Cc1ccc2c(c1)OCO2
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 23 24 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 10.3923 -0.75 0 0
+M  V30 2 O 9.0932 0 0 0
+M  V30 3 C 7.7942 -0.75 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 C 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 C 2.598 -0.75 0 0
+M  V30 8 C 1.299 0 0 0
+M  V30 9 O 1.299 1.5 0 0
+M  V30 10 N 0 -0.75 0 0
+M  V30 11 C -1.299 0 0 0
+M  V30 12 C -2.598 -0.7499 0 0
+M  V30 13 C -2.598 -2.2499 0 0
+M  V30 14 C -1.299 -2.9999 0 0
+M  V30 15 C 0 -2.2499 0 0
+M  V30 16 O 1.299 -3 0 0
+M  V30 17 C 5.1961 -2.2499 0 0
+M  V30 18 C 6.4951 -3 0 0
+M  V30 19 O 6.4951 -4.5 0 0
+M  V30 20 C 7.7942 -5.25 0 0
+M  V30 21 C 7.7942 -2.2499 0 0
+M  V30 22 O 9.0932 -2.9999 0 0
+M  V30 23 C 10.3923 -2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 8 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 14 15
+M  V30 15 1 10 15
+M  V30 16 2 15 16
+M  V30 17 2 5 17
+M  V30 18 1 17 18
+M  V30 19 1 18 19
+M  V30 20 1 19 20
+M  V30 21 2 18 21
+M  V30 22 1 3 21
+M  V30 23 1 21 22
+M  V30 24 1 22 23
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0118637
+
+> <SMILES> 
+COc1cc(CCC(=O)N2CCC=CC2=O)cc(OC)c1OC
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1002/PCA.716
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.1016/S0367-326X(02)00321-0
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 23 24 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 10.3923 -0.75 0 0
+M  V30 2 O 9.0932 0 0 0
+M  V30 3 C 7.7942 -0.75 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 C 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 C 2.598 -0.75 0 0
+M  V30 8 C 2.598 -2.25 0 0
+M  V30 9 O 3.8971 -3 0 0
+M  V30 10 N 1.299 -3 0 0
+M  V30 11 C 1.299 -4.5 0 0
+M  V30 12 C 0 -5.25 0 0
+M  V30 13 C -1.299 -4.5 0 0
+M  V30 14 C -1.299 -3 0 0
+M  V30 15 C 0 -2.25 0 0
+M  V30 16 O 0 -0.75 0 0
+M  V30 17 C 5.1961 -2.2499 0 0
+M  V30 18 C 6.4951 -3 0 0
+M  V30 19 O 6.4951 -4.5 0 0
+M  V30 20 C 7.7942 -5.25 0 0
+M  V30 21 C 7.7942 -2.2499 0 0
+M  V30 22 O 9.0932 -2.9999 0 0
+M  V30 23 C 10.3923 -2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 8 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 14 15
+M  V30 15 1 10 15
+M  V30 16 2 15 16
+M  V30 17 2 5 17
+M  V30 18 1 17 18
+M  V30 19 1 18 19
+M  V30 20 1 19 20
+M  V30 21 2 18 21
+M  V30 22 1 3 21
+M  V30 23 1 21 22
+M  V30 24 1 22 23
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0149458
+
+> <SMILES> 
+COc1cc(/C=C\C(=O)N2CCC=CC2=O)cc(OC)c1OC
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <DOI> 
+10.1016/S0031-9422(00)00226-0
+
+> <DOI> 
+10.1016/J.JPBA.2014.02.020
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 17 17 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 6.9282 -0.5 0 0
+M  V30 2 O 6.0621 0 0 0
+M  V30 3 C 5.1961 -0.5 0 0
+M  V30 4 C 4.3301 0 0 0
+M  V30 5 C 3.4641 -0.5 0 0
+M  V30 6 C 2.598 0 0 0
+M  V30 7 C 1.732 -0.5 0 0
+M  V30 8 C 0.866 0 0 0
+M  V30 9 O 0.866 1 0 0
+M  V30 10 O 0 -0.5 0 0
+M  V30 11 C 3.4641 -1.4999 0 0
+M  V30 12 C 4.3301 -1.9999 0 0
+M  V30 13 O 4.3301 -3 0 0
+M  V30 14 C 5.1961 -3.5 0 0
+M  V30 15 C 5.1961 -1.4999 0 0
+M  V30 16 O 6.0621 -1.9999 0 0
+M  V30 17 C 6.9282 -1.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 8 10
+M  V30 10 2 5 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 2 12 15
+M  V30 15 1 3 15
+M  V30 16 1 15 16
+M  V30 17 1 16 17
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0170330
+
+> <SMILES> 
+COc1cc(C=CC(=O)O)cc(OC)c1OC
+
+> <DOI> 
+10.1016/0031-9422(81)85125-4
+
+> <DOI> 
+10.1016/0031-9422(77)84043-0
+
+> <Unordered_taxonomy> 
+Polygalaceae,Plantae,Piperaceae,Magnoliopsida,Polygala,Piper tuberculatum,Eukaryota,Piper swartzianum,Archaeplastida,Polygala tenuifolia,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 18 18 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 4.3301 0 0 0
+M  V30 2 O 3.4641 -0.5 0 0
+M  V30 3 C 2.598 0 0 0
+M  V30 4 O 2.598 1 0 0
+M  V30 5 C 1.732 -0.5 0 0
+M  V30 6 C 0.866 0 0 0
+M  V30 7 C 0 -0.5 0 0
+M  V30 8 C -0.866 0 0 0
+M  V30 9 C -1.732 -0.4999 0 0
+M  V30 10 O -2.598 0 0 0
+M  V30 11 C -3.4641 -0.4999 0 0
+M  V30 12 C -1.732 -1.4999 0 0
+M  V30 13 O -2.598 -1.9999 0 0
+M  V30 14 C -2.598 -2.9999 0 0
+M  V30 15 C -0.866 -1.9999 0 0
+M  V30 16 O -0.866 -2.9999 0 0
+M  V30 17 C 0 -3.4999 0 0
+M  V30 18 C 0 -1.4999 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 3 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 1 9 10
+M  V30 10 1 10 11
+M  V30 11 2 9 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 12 15
+M  V30 15 1 15 16
+M  V30 16 1 16 17
+M  V30 17 2 15 18
+M  V30 18 1 7 18
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0183424
+
+> <SMILES> 
+COC(=O)CCc1cc(OC)c(OC)c(OC)c1
+
+> <DOI> 
+10.1016/S0031-9422(01)00431-9
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 21 22 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 9.0932 -4.5 0 0
+M  V30 2 O 9.0932 -3 0 0
+M  V30 3 C 7.7942 -2.2499 0 0
+M  V30 4 C 7.7942 -0.75 0 0
+M  V30 5 C 6.4951 0 0 0
+M  V30 6 C 5.1961 -0.75 0 0
+M  V30 7 C 3.8971 0 0 0
+M  V30 8 C 2.598 -0.75 0 0
+M  V30 9 C 1.299 0 0 0
+M  V30 10 O 1.299 1.5 0 0
+M  V30 11 N 0 -0.75 0 0
+M  V30 12 C -1.299 0 0 0
+M  V30 13 C -2.598 -0.7499 0 0
+M  V30 14 C -2.598 -2.2499 0 0
+M  V30 15 C -1.299 -2.9999 0 0
+M  V30 16 C 0 -2.2499 0 0
+M  V30 17 O 1.299 -3 0 0
+M  V30 18 C 5.1961 -2.25 0 0
+M  V30 19 C 6.4951 -2.9999 0 0
+M  V30 20 O 6.4951 -4.5 0 0
+M  V30 21 C 7.7942 -5.2499 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 2 5 6
+M  V30 6 1 6 7
+M  V30 7 2 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 9 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 2 14 15
+M  V30 15 1 15 16
+M  V30 16 1 11 16
+M  V30 17 2 16 17
+M  V30 18 1 6 18
+M  V30 19 2 18 19
+M  V30 20 1 3 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0027322
+
+> <SMILES> 
+COc1ccc(C=CC(=O)N2CCC=CC2=O)cc1OC
+
+> <DOI> 
+10.1021/NP960379W
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 23 24 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 10.3923 -0.75 0 0
+M  V30 2 O 9.0932 0 0 0
+M  V30 3 C 7.7942 -0.75 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 C 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 C 2.598 -0.75 0 0
+M  V30 8 C 1.299 0 0 0
+M  V30 9 O 1.299 1.5 0 0
+M  V30 10 N 0 -0.75 0 0
+M  V30 11 C -1.299 0 0 0
+M  V30 12 C -2.598 -0.7499 0 0
+M  V30 13 C -2.598 -2.2499 0 0
+M  V30 14 C -1.299 -2.9999 0 0
+M  V30 15 C 0 -2.2499 0 0
+M  V30 16 O 1.299 -3 0 0
+M  V30 17 C 5.1961 -2.2499 0 0
+M  V30 18 C 6.4951 -3 0 0
+M  V30 19 O 6.4951 -4.5 0 0
+M  V30 20 C 7.7942 -5.25 0 0
+M  V30 21 C 7.7942 -2.2499 0 0
+M  V30 22 O 9.0932 -2.9999 0 0
+M  V30 23 C 10.3923 -2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 8 10
+M  V30 10 1 10 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 1 14 15
+M  V30 15 1 10 15
+M  V30 16 2 15 16
+M  V30 17 2 5 17
+M  V30 18 1 17 18
+M  V30 19 1 18 19
+M  V30 20 1 19 20
+M  V30 21 2 18 21
+M  V30 22 1 3 21
+M  V30 23 1 21 22
+M  V30 24 1 22 23
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0007696
+
+> <SMILES> 
+COc1cc(CCC(=O)N2CCCCC2=O)cc(OC)c1OC
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 23 25 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 O 10.3923 -0.75 0 0
+M  V30 2 C 9.0932 0 0 0
+M  V30 3 C 7.7942 -0.75 0 0
+M  V30 4 C 6.4951 0 0 0
+M  V30 5 C 5.1961 -0.75 0 0
+M  V30 6 C 3.8971 0 0 0
+M  V30 7 C 2.598 -0.75 0 0
+M  V30 8 C 1.299 0 0 0
+M  V30 9 C 0 -0.75 0 0
+M  V30 10 C 0 -2.25 0 0
+M  V30 11 C -1.299 -3 0 0
+M  V30 12 C -2.598 -2.2499 0 0
+M  V30 13 C -2.598 -0.7499 0 0
+M  V30 14 C -1.299 0 0 0
+M  V30 15 O -4.0246 -0.2864 0 0
+M  V30 16 C -4.9063 -1.4999 0 0
+M  V30 17 O -4.0246 -2.7135 0 0
+M  V30 18 N 9.0932 1.4999 0 0
+M  V30 19 C 10.3923 2.2499 0 0
+M  V30 20 C 10.3923 3.7499 0 0
+M  V30 21 C 9.0932 4.5 0 0
+M  V30 22 C 7.7942 3.75 0 0
+M  V30 23 C 7.7942 2.25 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 1 6 7
+M  V30 7 1 7 8
+M  V30 8 1 8 9
+M  V30 9 2 9 10
+M  V30 10 1 10 11
+M  V30 11 2 11 12
+M  V30 12 1 12 13
+M  V30 13 2 13 14
+M  V30 14 1 9 14
+M  V30 15 1 13 15
+M  V30 16 1 15 16
+M  V30 17 1 16 17
+M  V30 18 1 12 17
+M  V30 19 1 2 18
+M  V30 20 1 18 19
+M  V30 21 1 19 20
+M  V30 22 1 20 21
+M  V30 23 1 21 22
+M  V30 24 1 22 23
+M  V30 25 1 18 23
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0002483
+
+> <SMILES> 
+O=C(C=CCCCCc1ccc2c(c1)OCO2)N1CCCCC1
+
+> <DOI> 
+10.1016/S0367-326X(02)00321-0
+
+> <Unordered_taxonomy> 
+Piper tuberculatum,Eukaryota,Piper swartzianum,Plantae,Archaeplastida,Piperaceae,Magnoliopsida,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
+
+Actelion Java MolfileCreator 2.0
+
+  0  0  0  0  0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 17 17 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 6.9282 -0.5 0 0
+M  V30 2 O 6.0621 0 0 0
+M  V30 3 C 5.1961 -0.5 0 0
+M  V30 4 C 4.3301 0 0 0
+M  V30 5 C 3.4641 -0.5 0 0
+M  V30 6 C 2.598 0 0 0
+M  V30 7 C 1.732 -0.5 0 0
+M  V30 8 C 0.866 0 0 0
+M  V30 9 O 0.866 1 0 0
+M  V30 10 O 0 -0.5 0 0
+M  V30 11 C 3.4641 -1.4999 0 0
+M  V30 12 C 4.3301 -1.9999 0 0
+M  V30 13 O 4.3301 -3 0 0
+M  V30 14 C 5.1961 -3.5 0 0
+M  V30 15 C 5.1961 -1.4999 0 0
+M  V30 16 O 6.0621 -1.9999 0 0
+M  V30 17 C 6.9282 -1.5 0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 2 3
+M  V30 3 2 3 4
+M  V30 4 1 4 5
+M  V30 5 1 5 6
+M  V30 6 2 6 7
+M  V30 7 1 7 8
+M  V30 8 2 8 9
+M  V30 9 1 8 10
+M  V30 10 2 5 11
+M  V30 11 1 11 12
+M  V30 12 1 12 13
+M  V30 13 1 13 14
+M  V30 14 2 12 15
+M  V30 15 1 3 15
+M  V30 16 1 15 16
+M  V30 17 1 16 17
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+> <lotus_id> 
+LTS0116332
+
+> <SMILES> 
+COc1cc(/C=C/C(=O)O)cc(OC)c1OC
+
+> <DOI> 
+10.1016/0031-9422(81)85125-4
+
+> <DOI> 
+10.1007/S00044-008-9161-9
+
+> <DOI> 
+10.1016/0031-9422(77)84043-0
+
+> <Unordered_taxonomy> 
+Polygalaceae,Plantae,Piperaceae,Magnoliopsida,Polygala,Piper tuberculatum,Eukaryota,Piper swartzianum,Archaeplastida,Polygala tenuifolia,Piper,Tracheophyta,Viridiplantae,Streptophyta
+
+$$$$
