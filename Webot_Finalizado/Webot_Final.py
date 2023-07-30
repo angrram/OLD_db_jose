@@ -12,11 +12,12 @@ options.set_preference("browser.download.folderList", '2')
 options.set_preference("browser.download.manager.showWhenStarting", False)
 options.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/x-gzip")
 options.add_argument("-headless") 
-
+options.add_argument("--incognito")
+options.add_argument('--disable-gpu') if os.name == 'nt' else None
 
 def submit(smile):
- with webdriver.Firefox(options=options) as driver:
-    driver.get(url)
+    driver = webdriver.Firefox(options=options) 
+    driver.get(url) 
     com="document.forms[0].smiles.value='"
     caracter="'"
     driver.execute_script(com+smile+caracter)
@@ -30,6 +31,8 @@ def submit(smile):
       dummy_boolean=True 
      else:
       pass
+    driver.close()  
+    #driver.quit()
 
 def entresacar(nombre_archivo):
     # Lista para almacenar los SMILES extraídos
