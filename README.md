@@ -6,7 +6,8 @@
 	1.1	Extrae ID Lotus
 	1.2	Extrae Smile
 	1.3	Guarda en un TXT
-		
+
+
 2. webot		
 	Input	.Txt de los compuestos
 	Output	.csv de swissweb
